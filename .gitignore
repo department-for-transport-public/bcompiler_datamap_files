@@ -1,0 +1,6 @@
+returns/
+*.tgz
+*.zip
+cleaned_datamap
+master.csv
+master_transposed.csv

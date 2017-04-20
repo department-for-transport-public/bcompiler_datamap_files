@@ -1,0 +1,1018 @@
+master_cellname,gmpp_template_sheet_reference,gmpp_template_cell_reference
+Project/Programme Name,GMPP Return,C23
+SRO Sign-Off,GMPP Return,C5
+FD Sign-Off,GMPP Return,
+Quarter Joined,GMPP Return,I25
+DfT Group,GMPP Return,
+GMPP - IPA ID Number,GMPP Return,C25
+Reporting period (GMPP - Snapshot Date),GMPP Return,F25
+Working Contact Name,GMPP Return,
+Working Contact Telephone,GMPP Return,
+Working Contact Email,GMPP Return,
+DfT Group,GMPP Return,
+DfT Division,GMPP Return,
+Agency or delivery partner (GMPP - Delivery Organisation primary),GMPP Return,D29
+Project Scope,GMPP Return,C49
+Delivery Structure,GMPP Return,D32
+Description if 'Other',GMPP Return,D33
+Change Delivery Methodology,GMPP Return,D34
+Brief project description (GMPP - brief descripton),GMPP Return,C36
+Strategic Alignment/Government Policy (GMPP - Key drivers),GMPP Return,C38
+Primary Category,GMPP Return,C41
+If other please describe,GMPP Return,C44
+Secondary Category,GMPP Return,C42
+If other please describe,GMPP Return,
+Tertiary Category,GMPP Return,C43
+If other please describe,GMPP Return,
+GMPP - Main reason for joining GMPP,GMPP Return,C46
+Has Project Scope Changed?,GMPP Return,C48
+Scope Change Commentary (if applicable),GMPP Return,C49
+List Strategic Outcomes (GMPP - Intended Outcome 2),GMPP Return,C52
+IO1 - Monetised?,GMPP Return,I52
+List Strategic Outcomes (GMPP - Intended Outcome 2),GMPP Return,C53
+IO2 - Monetised?,GMPP Return,I53
+List Strategic Outcomes (GMPP - Intended Outcome 3),GMPP Return,C54
+IO3 - Monetised?,GMPP Return,I54
+List Strategic Outcomes (GMPP - Intended Outcome 4),GMPP Return,C55
+IO4 - Monetised?,GMPP Return,I55
+List Strategic Outcomes (GMPP - Intended Outcome 5),GMPP Return,C56
+IO5 - Monetised?,GMPP Return,I56
+List Strategic Outcomes (GMPP - Intended Outcome 6),GMPP Return,C57
+IO6 - Monetised?,GMPP Return,I57
+List Strategic Outcomes (GMPP - Intended Outcome 7),GMPP Return,C58
+IO7 - Monetised?,GMPP Return,I58
+List Strategic Outcomes (GMPP - Intended Outcome 8),GMPP Return,C59
+IO8 - Monetised?,GMPP Return,I59
+List Strategic Outcomes (GMPP - Intended Outcome 9),GMPP Return,C60
+IO9 - Monetised?,GMPP Return,I60
+Intended Outcome 10,GMPP Return,C61
+IO10 - Monetised?,GMPP Return,I61
+Risk Level (RPA),GMPP Return,C66
+Departmental DCA,GMPP Return,C67
+Departmental DCA Narrative,GMPP Return,C68
+SRO First Name,GMPP Return,F78
+SRO Last Name,GMPP Return,F77
+SRO Full Name,GMPP Return,F79
+SRO Email,GMPP Return,F80
+SRO Phone No.,GMPP Return,F81
+SRO MPLA Status,GMPP Return,C83
+SRO MPLA - If 'other' please describe,GMPP Return,C84
+SRO PLP Status,GMPP Return,G83
+SRO PLP - If 'other' please describe,GMPP Return,G84
+Date If Current SRO Letter Issued,GMPP Return,C85
+If new SRO reason for change,GMPP Return,D86
+PD First Name,GMPP Return,F91
+PD Last Name,GMPP Return,F90
+PD Full Name,GMPP Return,F92
+PD Email,GMPP Return,F93
+PD Phone No.,GMPP Return,F94
+Secondary PDs please name?,GMPP Return,C95
+PD MPLA Status,GMPP Return,C96
+PD MPLA - If 'other' please describe,GMPP Return,C97
+PD PLP Status,GMPP Return,G96
+PD PLP - If 'other' please describe,GMPP Return,G97
+If new PD reason for change,GMPP Return,C98
+New PD - If 'other' please specify,GMPP Return,C99
+SRO Tenure Start Date,GMPP Return,F85
+SRO Tenure End Date,GMPP Return,I85
+Percentage of time spent on PD Role,GMPP Return,H95
+PD Tenure Start Date,GMPP Return,H98
+PD Tenure End Date,GMPP Return,H99
+Total No public sector,GMPP Return,H104
+Total No externals,GMPP Return,H105
+Total number of employees funded to work on project,GMPP Return,H106
+Resources commentary,GMPP Return,C107
+Digital - Now,GMPP Return,D112
+Digital - Future,GMPP Return,E112
+Information Technology - Now,GMPP Return,D113
+Information Technology - Future,GMPP Return,E113
+Legal Commercial Contract Management - Now,GMPP Return,D114
+Legal Commercial Contract Management - Future,GMPP Return,E114
+Project Delivery - Now,GMPP Return,D115
+Project Delivery - Future,GMPP Return,E115
+Change Implementation - Now,GMPP Return,H112
+Change Implementation - Future,GMPP Return,I112
+Technical - Now,GMPP Return,H113
+Technical - Future,GMPP Return,I113
+Industry Knowledge - Now,GMPP Return,H114
+Industry Knowledge - Future,GMPP Return,I114
+Finance - Now,GMPP Return,H115
+Finance - Future,GMPP Return,I115
+Analysis Now,GMPP Return,H118
+Analysis - future,GMPP Return,I118
+Communications & Stakeholder Engagement - Now,GMPP Return,H119
+Communications & Stakeholder Engagement - Future,GMPP Return,I119
+Other Capability 3,GMPP Return,C120
+Other Capability 3 - Now,GMPP Return,H120
+Other Capability 3 - Future,GMPP Return,I120
+Other Capability 4,GMPP Return,C121
+Other Capability 4 - Now,GMPP Return,H121
+Other Capability 4 - Future,GMPP Return,I121
+Cap Commentary,GMPP Return,C123
+Project stage,GMPP Return,F129
+Project Stage if Other,GMPP Return,F130
+Significant Steel Requirement,GMPP Return,
+Latest Treasury Approval Point (TAP) or equivalent,GMPP Return,F131
+Business Case used to source figures (GMPP TAP used to source figures),GMPP Return,F132
+Version Number Of Document used to Source Figures (GMPP - TAP version Number),GMPP Return,I132
+Date of TAP used to source figures,GMPP Return,F133
+Name of source in not Business Case (GMPP -If not TAP please specify equivalent document used),GMPP Return,F134
+If not TAP please specify date of equivalent document,GMPP Return,F135
+Approval MM1,GMPP Return,
+Approval MM1 Original Baseline,GMPP Return,
+Approval MM1 Latest Approved Baseline,GMPP Return,
+Approval MM1 Forecast / Actual,GMPP Return,
+Approval MM1 Milestone Type,GMPP Return,
+Approval MM1 Notes,GMPP Return,
+Approval MM2 Original Baseline,GMPP Return,C150
+Approval MM2 Latest Approved Baseline,GMPP Return,D150
+Approval MM2 Forecast / Actual,GMPP Return,E150
+Approval MM2 Notes,GMPP Return,G150
+Approval MM3,GMPP Return,
+Approval MM3 Original Baseline,GMPP Return,
+Approval MM3 Latest Approved Baseline,GMPP Return,
+Approval MM3 Forecast / Actual,GMPP Return,
+Approval MM3 Milestone Type,GMPP Return,
+Approval MM3 Notes,GMPP Return,
+Approval MM4 Original Baseline,GMPP Return,C150
+Approval MM4 Latest Approved Baseline,GMPP Return,D150
+Approval MM4 Forecast / Actual,GMPP Return,E150
+Approval MM4 Notes,GMPP Return,G150
+Approval MM5,GMPP Return,B168
+Approval MM5 Original Baseline,GMPP Return,C168
+Approval MM5 Latest Approved Baseline,GMPP Return,D168
+Approval MM5 Forecast / Actual,GMPP Return,E168
+Approval MM5 Milestone Type,GMPP Return,F168
+Approval MM5 Notes,GMPP Return,G168
+Approval MM6,GMPP Return,B169
+Approval MM6 Original Baseline,GMPP Return,C169
+Approval MM6 Latest Approved Baseline,GMPP Return,D169
+Approval MM6 Forecast / Actual,GMPP Return,E169
+Approval MM6 Milestone Type,GMPP Return,F169
+Approval MM6 Notes,GMPP Return,G169
+Approval MM7,GMPP Return,B170
+Approval MM7 Original Baseline,GMPP Return,C170
+Approval MM7 Latest Approved Baseline,GMPP Return,D170
+Approval MM7 Forecast / Actual,GMPP Return,E170
+Approval MM7 Milestone Type,GMPP Return,F170
+Approval MM7 Notes,GMPP Return,G170
+Approval MM8,GMPP Return,
+Approval MM8 Original Baseline,GMPP Return,
+Approval MM8 Latest Approved Baseline,GMPP Return,
+Approval MM8 Forecast / Actual,GMPP Return,
+Approval MM8 Milestone Type,GMPP Return,
+Approval MM8 Notes,GMPP Return,
+Approval MM9,GMPP Return,
+Approval MM9 Original Baseline,GMPP Return,
+Approval MM9 Latest Approved Baseline,GMPP Return,
+Approval MM9 Forecast / Actual,GMPP Return,
+Approval MM9 Milestone Type,GMPP Return,
+Approval MM9 Notes,GMPP Return,
+Approval MM10 Original Baseline,GMPP Return,C152
+Approval MM10 Latest Approved Baseline,GMPP Return,D152
+Approval MM10 Forecast / Actual,GMPP Return,E152
+Approval MM10 Notes,GMPP Return,G152
+Approval MM11,GMPP Return,
+Approval MM11 Original Baseline,GMPP Return,
+Approval MM11 Latest Approved Baseline,GMPP Return,
+Approval MM11 Forecast / Actual,GMPP Return,
+Approval MM11 Milestone Type,GMPP Return,
+Approval MM11 Notes,GMPP Return,
+Approval MM12,GMPP Return,
+Approval MM12 Original Baseline,GMPP Return,
+Approval MM12 Latest Approved Baseline,GMPP Return,
+Approval MM12 Forecast / Actual,GMPP Return,
+Approval MM12 Milestone Type,GMPP Return,
+Approval MM12 Notes,GMPP Return,
+Approval MM13,GMPP Return,
+Approval MM13 Original Baseline,GMPP Return,
+Approval MM13 Latest Approved Baseline,GMPP Return,
+Approval MM13 Forecast - Actual,GMPP Return,
+Approval MM13 Type,GMPP Return,
+Approval MM13 Notes,GMPP Return,
+Approval MM14,GMPP Return,
+Approval MM14 Original Baseline,GMPP Return,
+Approval MM14 Latest Approved Baseline,GMPP Return,
+Approval MM14 Forecast - Actual,GMPP Return,
+Approval MM14 Type,GMPP Return,
+Approval MM14 Notes,GMPP Return,
+Approval MM15,GMPP Return,
+Approval MM15 Original Baseline,GMPP Return,
+Approval MM15 Latest Approved Baseline,GMPP Return,
+Approval MM15 Forecast - Actual,GMPP Return,
+Approval MM15 Type,GMPP Return,
+Approval MM15 Notes,GMPP Return,
+Project MM16,GMPP Return,
+Project MM16 Original Baseline,GMPP Return,
+Project MM16 Latest Approved Baseline,GMPP Return,
+Project MM16 Forecast - Actual,GMPP Return,
+Project MM16 Type,GMPP Return,
+Project MM16 Notes,GMPP Return,
+Project MM17,GMPP Return,
+Project MM17 Original Baseline,GMPP Return,
+Project MM17 Latest Approved Baseline,GMPP Return,
+Project MM17 Forecast - Actual,GMPP Return,
+Project MM17 Type,GMPP Return,
+Project MM17 Notes,GMPP Return,
+Project MM18 Original Baseline,GMPP Return,C140
+Project MM18 Latest Approved Baseline,GMPP Return,D140
+Project MM18 Forecast - Actual,GMPP Return,E140
+Project MM18 Notes,GMPP Return,G140
+Project MM19,GMPP Return,B144
+Project MM19 Original Baseline,GMPP Return,C144
+Project MM19 Latest Approved Baseline,GMPP Return,D144
+Project MM19 Forecast - Actual,GMPP Return,E144
+Project MM19 Type,GMPP Return,F144
+Project MM19 Notes,GMPP Return,G144
+Project MM20,GMPP Return,B145
+Project MM20 Original Baseline,GMPP Return,C145
+Project MM20 Latest Approved Baseline,GMPP Return,D145
+Project MM20 Forecast - Actual,GMPP Return,E145
+Project MM20 Type,GMPP Return,F145
+Project MM20 Notes,GMPP Return,G145
+Project MM21 Original Baseline,GMPP Return,C141
+Project MM21 Latest Approved Baseline,GMPP Return,D141
+Project MM21 Forecast - Actual,GMPP Return,E141
+Project MM21 Notes,GMPP Return,G141
+Project MM22 Original Baseline,GMPP Return,C142
+Project MM22 Latest Approved Baseline,GMPP Return,D142
+Project MM22 Forecast - Actual,GMPP Return,E142
+Project MM22 Notes,GMPP Return,G142
+Project MM23,GMPP Return,B146
+Project MM23 Original Baseline,GMPP Return,C146
+Project MM23 Latest Approved Baseline,GMPP Return,D146
+Project MM23 Forecast - Actual,GMPP Return,E146
+Project MM23 Type,GMPP Return,F146
+Project MM23 Notes,GMPP Return,G146
+Project MM24,GMPP Return,B154
+Project MM24 Original Baseline,GMPP Return,C154
+Project MM24 Latest Approved Baseline,GMPP Return,D154
+Project MM24 Forecast - Actual,GMPP Return,E154
+Project MM24 Type,GMPP Return,F154
+Project MM24 Notes,GMPP Return,G154
+Project MM25,GMPP Return,B155
+Project MM25 Original Baseline,GMPP Return,C155
+Project MM25 Latest Approved Baseline,GMPP Return,D155
+Project MM25 Forecast - Actual,GMPP Return,E155
+Project MM25 Type,GMPP Return,F155
+Project MM25 Notes,GMPP Return,G155
+Project MM26,GMPP Return,B156
+Project MM26 Original Baseline,GMPP Return,C156
+Project MM26 Latest Approved Baseline,GMPP Return,D156
+Project MM26 Forecast - Actual,GMPP Return,E156
+Project MM26 Type,GMPP Return,F156
+Project MM26 Notes,GMPP Return,G156
+Project MM27,GMPP Return,B157
+Project MM27 Original Baseline,GMPP Return,C157
+Project MM27 Latest Approved Baseline,GMPP Return,D157
+Project MM27 Forecast - Actual,GMPP Return,E157
+Project MM27 Type,GMPP Return,F157
+Project MM27 Notes,GMPP Return,G157
+Project MM28,GMPP Return,B163
+Project MM28 Original Baseline,GMPP Return,C163
+Project MM28 Latest Approved Baseline,GMPP Return,D163
+Project MM28 Forecast - Actual,GMPP Return,E163
+Project MM28 Type,GMPP Return,F163
+Project MM28 Notes,GMPP Return,G163
+Project MM29,GMPP Return,B164
+Project MM29 Original Baseline,GMPP Return,C164
+Project MM29 Latest Approved Baseline,GMPP Return,D164
+Project MM29 Forecast - Actual,GMPP Return,E164
+Project MM29 Type,GMPP Return,F164
+Project MM29 Notes,GMPP Return,G164
+Project MM30,GMPP Return,B165
+Project MM30 Original Baseline,GMPP Return,C165
+Project MM30 Latest Approved Baseline,GMPP Return,D165
+Project MM30 Forecast - Actual,GMPP Return,E165
+Project MM30 Type,GMPP Return,F165
+Project MM30 Notes,GMPP Return,G165
+Project MM31,GMPP Return,B166
+Project MM31 Original Baseline,GMPP Return,C166
+Project MM31 Latest Approved Baseline,GMPP Return,D166
+Project MM31 Forecast - Actual,GMPP Return,E166
+Project MM31 Type,GMPP Return,F166
+Project MM31 Notes,GMPP Return,G166
+Project MM32,GMPP Return,B167
+Project MM32 Original Baseline,GMPP Return,C167
+Project MM32 Latest Approved Baseline,GMPP Return,D167
+Project MM32 Forecast - Actual,GMPP Return,E167
+Project MM32 Type,GMPP Return,F167
+Project MM32 Notes,GMPP Return,G167
+Real or Nominal - Baseline,GMPP Return,D207
+Real or Nominal - Actual/Forecast,GMPP Return,H207
+Source of Finance,GMPP Return,C210
+Other Finance type Description,GMPP Return,C211
+NPV for all projects and NPV for programmes if available,GMPP Return,C212
+Project cost to closure,GMPP Return,F213
+Project Costs Narrative RDel,GMPP Return,C220
+Project Costs Narrative CDel,GMPP Return,
+Pre 16-17 RDEL Baseline - One off new costs - investment in change,GMPP Return,D224
+Pre 16-17 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E224
+Pre 16-17 RDEL Baseline - Recurring old costs,GMPP Return,F224
+Pre 16-17 RDEL Actual - One off new costs - investment in change,GMPP Return,D225
+Pre 16-17 RDEL Actual - Recurring new costs - investment in change,GMPP Return,E225
+Pre 16-17 RDEL Actual - Recurring old costs,GMPP Return,F225
+16-17 RDEL Baseline - One off new costs - investment in change,GMPP Return,D227
+16-17 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E227
+16-17 RDEL Baseline - Recurring old costs,GMPP Return,F227
+16-17 RDEL Forecast - One off new costs - investment in change,GMPP Return,D228
+16-17 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E228
+16-17 RDEL Forecast - Recurring old costs,GMPP Return,F228
+17-18 RDEL Baseline - One off new costs - investment in change,GMPP Return,D229
+17-18 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E229
+17-18 RDEL Baseline - Recurring old costs,GMPP Return,F229
+17-18 RDEL Forecast - One off new costs - investment in change,GMPP Return,D230
+17-18 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E230
+17-18 RDEL Forecast - Recurring old costs,GMPP Return,F230
+18-19 RDEL Baseline - One off new costs - investment in change,GMPP Return,D231
+18-19 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E231
+18-19 RDEL Baseline - Recurring old costs,GMPP Return,F231
+18-19 RDEL Forecast - One off new costs - investment in change,GMPP Return,D232
+18-19 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E232
+18-19 RDEL Forecast - Recurring old costs,GMPP Return,F232
+19-20 RDEL Baseline - One off new costs - investment in change,GMPP Return,D233
+19-20 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E233
+19-20 RDEL Baseline - Recurring old costs,GMPP Return,F233
+19-20 RDEL Forecast - One off new costs - investment in change,GMPP Return,D234
+19-20 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E234
+19-20 RDEL Forecast - Recurring old costs,GMPP Return,F234
+20-21 RDEL Baseline - One off new costs - investment in change,GMPP Return,D235
+20-21 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E235
+20-21 RDEL Baseline - Recurring old costs,GMPP Return,F235
+20-21 RDEL Forecast - One off new costs - investment in change,GMPP Return,D236
+20-21 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E236
+20-21 RDEL Forecast - Recurring old costs,GMPP Return,F236
+21-22 RDEL Baseline - One off new costs - investment in change,GMPP Return,D237
+21-22 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E237
+21-22 RDEL Baseline - Recurring old costs,GMPP Return,F237
+21-22 RDEL Forecast - One off new costs - investment in change,GMPP Return,D238
+21-22 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E238
+21-22 RDEL Forecast - Recurring old costs,GMPP Return,F238
+Unprofiled Remainder RDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),GMPP Return,D239
+Unprofiled Remainder RDEL Baseline - Recurring new costs - investment in change (GMPP - Remaining Spend),GMPP Return,E239
+Unprofiled Remainder RDEL Baseline - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F239
+Unprofiled Remainder RDEL Forecast - One off new costs - investment in change (GMPP – Remaining Spend),GMPP Return,D240
+Unprofiled Remainder RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E240
+Unprofiled Remainder RDEL Forecast - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F240
+Annual Steady State for RDEL recurring new costs,GMPP Return,E243
+Year RDEL spend stops,GMPP Return,E245
+Pre 16-17 CDEL Baseline - One off new costs - investment in change,GMPP Return,D248
+Pre 16-17 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E248
+Pre 16-17 CDEL Baseline - Recurring old costs,GMPP Return,F248
+Pre 16-17 CDEL Actual - One off new costs - investment in change,GMPP Return,D249
+Pre 16-17 CDEL Actual - Recurring new costs - investment in change,GMPP Return,E249
+Pre 16-17 CDEL Actual - Recurring old costs,GMPP Return,F249
+16-17 CDEL Baseline - One off new costs - investment in change,GMPP Return,D251
+16-17 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E251
+16-17 CDEL Baseline - Recurring old costs,GMPP Return,F251
+16-17 CDEL Forecast - One off new costs - investment in change,GMPP Return,D252
+16-17 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E252
+16-17 CDEL Forecast - Recurring old costs,GMPP Return,F252
+17-18 CDEL Baseline - One off new costs - investment in change,GMPP Return,D253
+17-18 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E253
+17-18 CDEL Baseline - Recurring old costs,GMPP Return,F253
+17-18 CDEL Forecast - One off new costs - investment in change,GMPP Return,D254
+17-18 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E254
+17-18 CDEL Forecast - Recurring old costs,GMPP Return,F254
+18-19 CDEL Baseline - One off new costs - investment in change,GMPP Return,D255
+18-19 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E255
+18-19 CDEL Baseline - Recurring old costs,GMPP Return,F255
+18-19 CDEL Forecast - One off new costs - investment in change,GMPP Return,D256
+18-19 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E256
+18-19 CDEL Forecast - Recurring old costs,GMPP Return,F256
+19-20 CDEL Baseline - One off new costs - investment in change,GMPP Return,D257
+19-20 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E257
+19-20 CDEL Baseline - Recurring old costs,GMPP Return,F257
+19-20 CDEL Forecast - One off new costs - investment in change,GMPP Return,D258
+19-20 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E258
+19-20 CDEL Forecast - Recurring old costs,GMPP Return,F258
+20-21 CDEL Baseline - One off new costs - investment in change,GMPP Return,D259
+20-21 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E259
+20-21 CDEL Baseline - Recurring old costs,GMPP Return,F259
+20-21 CDEL Forecast - One off new costs - investment in change,GMPP Return,D260
+20-21 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E260
+20-21 CDEL Forecast - Recurring old costs,GMPP Return,F260
+21-22 CDEL Baseline - One off new costs - investment in change,GMPP Return,D261
+21-22 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E261
+21-22 CDEL Baseline - Recurring old costs,GMPP Return,F261
+21-22 CDEL Forecast - One off new costs - investment in change,GMPP Return,D262
+21-22 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E262
+21-22 CDEL Forecast - Recurring old costs,GMPP Return,F262
+Unprofiled Remainder CDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),GMPP Return,D263
+Unprofiled Remainder CDEL Baseline - Recurring old costs (GMPP - Remaining Spend),GMPP Return,E263
+Unprofiled Remainder CDEL Baseline - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F263
+Unprofiled Remainder CDEL Forecast - One off new costs - investment in change (GMPP - Remaining Spend),GMPP Return,D264
+Unprofiled Remainder CDEL Forecast - Recurring new costs - investment in change (GMPP - Remaining Spend),GMPP Return,E264
+Unprofiled Remainder CDEL Forecast - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F264
+Annual Steady State for CDEL recurring new costs,GMPP Return,E267
+Year CDEL spend stops,GMPP Return,E270
+Unprofiled Remainder Baseline - Income (£m) both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I239
+Unprofiled Remainder Forecast - Income (£m) both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I240
+Pre 16-17 Non-Gov both Revenue and Capital Baseline,GMPP Return,I224
+Pre 16-17 Non-Gov both Revenue and Capital Forecast,GMPP Return,I225
+16-17 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I227
+16-17 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I228
+17-18 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I229
+17-18 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I230
+18-19 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I231
+18-19 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I232
+19-20 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I233
+19-20 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I234
+20-21 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I235
+20-21 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I236
+21-22 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I237
+21-22 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I238
+Pre 16-17 Non-Gov both Revenue and Capital Baseline,GMPP Return,I248
+Pre 16-17 Non-Gov both Revenue and Capital Forecast,GMPP Return,I249
+16-17 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I251
+16-17 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I252
+17-18 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I253
+17-18 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I254
+18-19 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I255
+18-19 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I256
+19-20 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I257
+19-20 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I258
+20-21 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I259
+20-21 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I260
+21-22 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I261
+21-22 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I262
+Unprofiled Remainder Baseline - Income (£m) both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I263
+Unprofiled Remainder Forecast - Income (£m) both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I264
+Pre 16-17 BEN Baseline - Gov. Cashable,GMPP Return,D275
+Pre 16-17 BEN Baseline - Gov. Non-Cashable,GMPP Return,E275
+Pre 16-17 BEN Baseline - Economic (inc Economic (inc Private Partner),GMPP Return,G275
+Pre 16-17 BEN Baseline - Disbenefit Disbenefit UK Economic,GMPP Return,I275
+Pre 16-17 BEN Actual - Gov. Cashable,GMPP Return,D276
+Pre 16-17 BEN Actual - Gov. Non-Cashable,GMPP Return,E276
+Pre 16-17 BEN Actual - Economic (inc Private Partner),GMPP Return,G276
+Pre 16-17 BEN Actual - Disbenefit UK Economic,GMPP Return,I276
+16-17 BEN Baseline - Gov. Cashable,GMPP Return,D277
+16-17 BEN Baseline - Gov. Non-Cashable,GMPP Return,E277
+16-17 BEN Baseline - Economic (inc Private Partner),GMPP Return,G277
+16-17 BEN Baseline - Disbenefit UK Economic,GMPP Return,I277
+16-17 BEN Forecast - Gov. Cashable,GMPP Return,D278
+16-17 BEN Forecast - Gov. Non-Cashable,GMPP Return,E278
+16-17 BEN Forecast - Economic (inc Private Partner),GMPP Return,G278
+16-17 BEN Forecast - Disbenefit UK Economic,GMPP Return,I278
+17-18 BEN Baseline - Gov. Cashable,GMPP Return,D279
+17-18 BEN Baseline - Gov. Non-Cashable,GMPP Return,E279
+17-18 BEN Baseline - Economic (inc Private Partner),GMPP Return,G279
+17-18 BEN Baseline - Disbenefit UK Economic,GMPP Return,I279
+17-18 BEN Forecast - Gov. Cashable,GMPP Return,D280
+17-18 BEN Forecast - Gov. Non-Cashable,GMPP Return,E280
+17-18 BEN Forecast - Economic (inc Private Partner),GMPP Return,G280
+17-18 BEN Forecast - Disbenefit UK Economic,GMPP Return,I280
+18-19 BEN Baseline - Gov. Cashable,GMPP Return,D281
+18-19 BEN Baseline - Gov. Non-Cashable,GMPP Return,E281
+18-19 BEN Baseline - Economic (inc Private Partner),GMPP Return,G281
+18-19 BEN Baseline - Disbenefit UK Economic,GMPP Return,I281
+18-19 BEN Forecast - Gov. Cashable,GMPP Return,D282
+18-19 BEN Forecast - Gov. Non-Cashable,GMPP Return,E282
+18-19 BEN Forecast - Economic (inc Private Partner),GMPP Return,G282
+18-19 BEN Forecast - Disbenefit UK Economic,GMPP Return,I282
+19-20 BEN Baseline - Gov. Cashable,GMPP Return,D283
+19-20 BEN Baseline - Gov. Non-Cashable,GMPP Return,E283
+19-20 BEN Baseline - Economic (inc Private Partner),GMPP Return,G283
+19-20 BEN Baseline - Disbenefit UK Economic,GMPP Return,I283
+19-20 BEN Forecast - Gov. Cashable,GMPP Return,D284
+19-20 BEN Forecast - Gov. Non-Cashable,GMPP Return,E284
+19-20 BEN Forecast - Economic (inc Private Partner),GMPP Return,G284
+19-20 BEN Forecast - Disbenefit UK Economic,GMPP Return,I284
+20-21 BEN Baseline - Gov. Cashable,GMPP Return,D285
+20-21 BEN Baseline - Gov. Non-Cashable,GMPP Return,E285
+20-21 BEN Baseline - Economic (inc Private Partner),GMPP Return,G285
+20-21 BEN Baseline - Disbenefit UK Economic,GMPP Return,I285
+20-21 BEN Forecast - Gov. Cashable,GMPP Return,D286
+20-21 BEN Forecast - Gov. Non-Cashable,GMPP Return,E286
+20-21 BEN Forecast - Economic (inc Private Partner),GMPP Return,G286
+20-21 BEN Forecast - Disbenefit UK Economic,GMPP Return,I286
+21-22 BEN Baseline - Gov. Cashable,GMPP Return,D287
+21-22 BEN Baseline - Gov. Non-Cashable,GMPP Return,E287
+21-22 BEN Baseline - Economic (inc Private Partner),GMPP Return,G287
+21-22 BEN Baseline - Disbenefit UK Economic,GMPP Return,I287
+21-22 BEN Forecast - Gov. Cashable,GMPP Return,D288
+21-22 BEN Forecast - Gov. Non-Cashable,GMPP Return,E288
+21-22 BEN Forecast - Economic (inc Private Partner),GMPP Return,G288
+21-22 BEN Forecast - Disbenefit UK Economic,GMPP Return,I288
+21-22 BEN Forecast - Total Monetised Benefits,GMPP Return,D289
+Unprofiled Remainder BEN Baseline - Gov. Non-Cashable,GMPP Return,E289
+Unprofiled Remainder BEN Baseline - Economic (inc Private Partner),GMPP Return,G289
+Unprofiled Remainder BEN Baseline - Disbenefit UK Economic,GMPP Return,I289
+Unprofiled Remainder BEN Forecast - Gov. Cashable,GMPP Return,D290
+Unprofiled Remainder BEN Forecast - Gov. Non-Cashable,GMPP Return,E290
+Unprofiled Remainder BEN Forecast - Economic (inc Private Partner),GMPP Return,G290
+Unprofiled Remainder BEN Forecast - Disbenefit UK Economic,GMPP Return,I290
+Year BEN spend stops,GMPP Return,E294
+Benefits Narrative,GMPP Return,C296
+Percentage of time spent on SRO Role,GMPP Return,H82
+Project stage,GMPP Return,
+Project stage if Other,GMPP Return,
+Assurance MM1,GMPP Return,
+Assurance MM1 Original Baseline,GMPP Return,
+Assurance MM1 Latest Approved Baseline,GMPP Return,
+Assurance MM1 Forecast - Actual,GMPP Return,
+Assurance MM1 DCA,GMPP Return,
+Assurance MM1 Notes,GMPP Return,
+Assurance MM2,GMPP Return,
+Assurance MM2 Original Baseline,GMPP Return,
+Assurance MM2 Latest Approved Baseline,GMPP Return,
+Assurance MM2 Forecast - Actual,GMPP Return,
+Assurance MM2 DCA,GMPP Return,
+Assurance MM2 Notes,GMPP Return,
+Assurance MM3,GMPP Return,
+Assurance MM3 Original Baseline,GMPP Return,
+Assurance MM3 Latest Approved Baseline,GMPP Return,
+Assurance MM3 Forecast - Actual,GMPP Return,
+Assurance MM3 DCA,GMPP Return,
+Assurance MM3 Notes,GMPP Return,
+Assurance MM4,GMPP Return,
+Assurance MM4 Original Baseline,GMPP Return,
+Assurance MM4 Latest Approved Baseline,GMPP Return,
+Assurance MM4 Forecast - Actual,GMPP Return,
+Assurance MM4 DCA,GMPP Return,
+Assurance MM4 Notes,GMPP Return,
+Assurance MM5,GMPP Return,
+Assurance MM5 Original Baseline,GMPP Return,
+Assurance MM5 Latest Approved Baseline,GMPP Return,
+Assurance MM5 Forecast - Actual,GMPP Return,
+Assurance MM5 DCA,GMPP Return,
+Assurance MM5 Notes,GMPP Return,
+Assurance MM6,GMPP Return,
+Assurance MM6 Original Baseline,GMPP Return,
+Assurance MM6 Latest Approved Baseline,GMPP Return,
+Assurance MM6 Forecast - Actual,GMPP Return,
+Assurance MM6 DCA,GMPP Return,
+Assurance MM6 Notes,GMPP Return,
+Assurance MM7,GMPP Return,
+Assurance MM7 Original Baseline,GMPP Return,
+Assurance MM7 Latest Approved Baseline,GMPP Return,
+Assurance MM7 Forecast - Actual,GMPP Return,
+Assurance MM7 DCA,GMPP Return,
+Assurance MM7 Notes,GMPP Return,
+Assurance MM8,GMPP Return,
+Assurance MM8 Original Baseline,GMPP Return,
+Assurance MM8 Latest Approved Baseline,GMPP Return,
+Assurance MM8 Forecast - Actual,GMPP Return,
+Assurance MM8 DCA,GMPP Return,
+Assurance MM8 Notes,GMPP Return,
+Assurance MM9,GMPP Return,
+Assurance MM9 Original Baseline,GMPP Return,
+Assurance MM9 Latest Approved Baseline,GMPP Return,
+Assurance MM9 Forecast - Actual,GMPP Return,
+Assurance MM9 DCA,GMPP Return,
+Assurance MM9 Notes,GMPP Return,
+Assurance MM10,GMPP Return,
+Assurance MM10 Original Baseline,GMPP Return,
+Assurance MM10 Latest Approved Baseline,GMPP Return,
+Assurance MM10 Forecast - Actual,GMPP Return,
+Assurance MM10 DCA,GMPP Return,
+Assurance MM10 Notes,GMPP Return,
+Assurance MM11,GMPP Return,
+Assurance MM11 Original Baseline,GMPP Return,
+Assurance MM11 Latest Approved Baseline,GMPP Return,
+Assurance MM11 Forecast - Actual,GMPP Return,
+Assurance MM11 DCA,GMPP Return,
+Assurance MM11 Notes,GMPP Return,
+Assurance MM12,GMPP Return,
+Assurance MM12 Original Baseline,GMPP Return,
+Assurance MM12 Latest Approved Baseline,GMPP Return,
+Assurance MM12 Forecast - Actual,GMPP Return,
+Assurance MM12 DCA,GMPP Return,
+Assurance MM12 Notes,GMPP Return,
+Assurance MM13,GMPP Return,
+Assurance MM13 Original Baseline,GMPP Return,
+Assurance MM13 Latest Approved Baseline,GMPP Return,
+Assurance MM13 Forecast - Actual,GMPP Return,
+Assurance MM13 DCA,GMPP Return,
+Assurance MM13 Notes,GMPP Return,
+Assurance MM14,GMPP Return,
+Assurance MM14 Original Baseline,GMPP Return,
+Assurance MM14 Latest Approved Baseline,GMPP Return,
+Assurance MM14 Forecast - Actual,GMPP Return,
+Assurance MM14 DCA,GMPP Return,
+Assurance MM14 Notes,GMPP Return,
+Assurance MM15,GMPP Return,
+Assurance MM15 Original Baseline,GMPP Return,
+Assurance MM15 Latest Approved Baseline,GMPP Return,
+Assurance MM15 Forecast - Actual,GMPP Return,
+Assurance MM15 DCA,GMPP Return,
+Assurance MM15 Notes,GMPP Return,
+Assurance MM16,GMPP Return,
+Assurance MM16 Original Baseline,GMPP Return,
+Assurance MM16 Latest Approved Baseline,GMPP Return,
+Assurance MM16 Forecast - Actual,GMPP Return,
+Assurance MM16 DCA,GMPP Return,
+Assurance MM16 Notes,GMPP Return,
+Assurance MM17,GMPP Return,
+Assurance MM17 Original Baseline,GMPP Return,
+Assurance MM17 Latest Approved Baseline,GMPP Return,
+Assurance MM17 Forecast - Actual,GMPP Return,
+Assurance MM17 DCA,GMPP Return,
+Assurance MM17 Notes,GMPP Return,
+Assurance MM18,GMPP Return,
+Assurance MM18 Original Baseline,GMPP Return,
+Assurance MM18 Latest Approved Baseline,GMPP Return,
+Assurance MM18 Forecast - Actual,GMPP Return,
+Assurance MM18 DCA,GMPP Return,
+Assurance MM18 Notes,GMPP Return,
+urn,G144
+Project MM20,GMPP Return,B145
+Project MM20 Original Baseline,GMPP Return,C145
+Project MM20 Latest Approved Baseline,GMPP Return,D145
+Project MM20 Forecast - Actual,GMPP Return,E145
+Project MM20 Type,GMPP Return,F145
+Project MM20 Notes,GMPP Return,G145
+Project MM21 Original Baseline,GMPP Return,C141
+Project MM21 Latest Approved Baseline,GMPP Return,D141
+Project MM21 Forecast - Actual,GMPP Return,E141
+Project MM21 Notes,GMPP Return,G141
+Project MM22 Original Baseline,GMPP Return,C142
+Project MM22 Latest Approved Baseline,GMPP Return,D142
+Project MM22 Forecast - Actual,GMPP Return,E142
+Project MM22 Notes,GMPP Return,G142
+Project MM23,GMPP Return,B146
+Project MM23 Original Baseline,GMPP Return,C146
+Project MM23 Latest Approved Baseline,GMPP Return,D146
+Project MM23 Forecast - Actual,GMPP Return,E146
+Project MM23 Type,GMPP Return,F146
+Project MM23 Notes,GMPP Return,G146
+Project MM24,GMPP Return,B154
+Project MM24 Original Baseline,GMPP Return,C154
+Project MM24 Latest Approved Baseline,GMPP Return,D154
+Project MM24 Forecast - Actual,GMPP Return,E154
+Project MM24 Type,GMPP Return,F154
+Project MM24 Notes,GMPP Return,G154
+Project MM25,GMPP Return,B155
+Project MM25 Original Baseline,GMPP Return,C155
+Project MM25 Latest Approved Baseline,GMPP Return,D155
+Project MM25 Forecast - Actual,GMPP Return,E155
+Project MM25 Type,GMPP Return,F155
+Project MM25 Notes,GMPP Return,G155
+Project MM26,GMPP Return,B156
+Project MM26 Original Baseline,GMPP Return,C156
+Project MM26 Latest Approved Baseline,GMPP Return,D156
+Project MM26 Forecast - Actual,GMPP Return,E156
+Project MM26 Type,GMPP Return,F156
+Project MM26 Notes,GMPP Return,G156
+Project MM27,GMPP Return,B157
+Project MM27 Original Baseline,GMPP Return,C157
+Project MM27 Latest Approved Baseline,GMPP Return,D157
+Project MM27 Forecast - Actual,GMPP Return,E157
+Project MM27 Type,GMPP Return,F157
+Project MM27 Notes,GMPP Return,G157
+Project MM28,GMPP Return,B163
+Project MM28 Original Baseline,GMPP Return,C163
+Project MM28 Latest Approved Baseline,GMPP Return,D163
+Project MM28 Forecast - Actual,GMPP Return,E163
+Project MM28 Type,GMPP Return,F163
+Project MM28 Notes,GMPP Return,G163
+Project MM29,GMPP Return,B164
+Project MM29 Original Baseline,GMPP Return,C164
+Project MM29 Latest Approved Baseline,GMPP Return,D164
+Project MM29 Forecast - Actual,GMPP Return,E164
+Project MM29 Type,GMPP Return,F164
+Project MM29 Notes,GMPP Return,G164
+Project MM30,GMPP Return,B165
+Project MM30 Original Baseline,GMPP Return,C165
+Project MM30 Latest Approved Baseline,GMPP Return,D165
+Project MM30 Forecast - Actual,GMPP Return,E165
+Project MM30 Type,GMPP Return,F165
+Project MM30 Notes,GMPP Return,G165
+Project MM31,GMPP Return,B166
+Project MM31 Original Baseline,GMPP Return,C166
+Project MM31 Latest Approved Baseline,GMPP Return,D166
+Project MM31 Forecast - Actual,GMPP Return,E166
+Project MM31 Type,GMPP Return,F166
+Project MM31 Notes,GMPP Return,G166
+Project MM32,GMPP Return,B167
+Project MM32 Original Baseline,GMPP Return,C167
+Project MM32 Latest Approved Baseline,GMPP Return,D167
+Project MM32 Forecast - Actual,GMPP Return,E167
+Project MM32 Type,GMPP Return,F167
+Project MM32 Notes,GMPP Return,G167
+Real or Nominal - Baseline,GMPP Return,D207
+Real or Nominal - Actual/Forecast,GMPP Return,H207
+Source of Finance,GMPP Return,C210
+Other Finance type Description,GMPP Return,C211
+NPV for all projects and NPV for programmes if available,GMPP Return,C212
+Project cost to closure,GMPP Return,F213
+Project Costs Narrative Rdel,GMPP Return,C220
+Project Costs Narrative Cdel,GMPP Return,
+Pre 16-17 RDEL Baseline - One off new costs - investment in change,GMPP Return,D224
+Pre 16-17 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E224
+Pre 16-17 RDEL Baseline - Recurring old costs,GMPP Return,F224
+Pre 16-17 RDEL Actual - One off new costs - investment in change,GMPP Return,D225
+Pre 16-17 RDEL Actual - Recurring new costs - investment in change,GMPP Return,E225
+Pre 16-17 RDEL Actual - Recurring old costs,GMPP Return,F225
+16-17 RDEL Baseline - One off new costs - investment in change,GMPP Return,D227
+16-17 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E227
+16-17 RDEL Baseline - Recurring old costs,GMPP Return,F227
+16-17 RDEL Forecast - One off new costs - investment in change,GMPP Return,D228
+16-17 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E228
+16-17 RDEL Forecast - Recurring old costs,GMPP Return,F228
+17-18 RDEL Baseline - One off new costs - investment in change,GMPP Return,D229
+17-18 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E229
+17-18 RDEL Baseline - Recurring old costs,GMPP Return,F229
+17-18 RDEL Forecast - One off new costs - investment in change,GMPP Return,D230
+17-18 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E230
+17-18 RDEL Forecast - Recurring old costs,GMPP Return,F230
+18-19 RDEL Baseline - One off new costs - investment in change,GMPP Return,D231
+18-19 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E231
+18-19 RDEL Baseline - Recurring old costs,GMPP Return,F231
+18-19 RDEL Forecast - One off new costs - investment in change,GMPP Return,D232
+18-19 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E232
+18-19 RDEL Forecast - Recurring old costs,GMPP Return,F232
+19-20 RDEL Baseline - One off new costs - investment in change,GMPP Return,D233
+19-20 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E233
+19-20 RDEL Baseline - Recurring old costs,GMPP Return,F233
+19-20 RDEL Forecast - One off new costs - investment in change,GMPP Return,D234
+19-20 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E234
+19-20 RDEL Forecast - Recurring old costs,GMPP Return,F234
+20-21 RDEL Baseline - One off new costs - investment in change,GMPP Return,D235
+20-21 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E235
+20-21 RDEL Baseline - Recurring old costs,GMPP Return,F235
+20-21 RDEL Forecast - One off new costs - investment in change,GMPP Return,D236
+20-21 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E236
+20-21 RDEL Forecast - Recurring old costs,GMPP Return,F236
+21-22 RDEL Baseline - One off new costs - investment in change,GMPP Return,D237
+21-22 RDEL Baseline - Recurring new costs - investment in change,GMPP Return,E237
+21-22 RDEL Baseline - Recurring old costs,GMPP Return,F237
+21-22 RDEL Forecast - One off new costs - investment in change,GMPP Return,D238
+21-22 RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E238
+21-22 RDEL Forecast - Recurring old costs,GMPP Return,F238
+Unprofiled Remainder RDEL Baseline (GMPP - Remaining Spend) - One off new costs - investment in change,GMPP Return,D239
+Unprofiled Remainder RDEL Baseline - Recurring new costs - investment in change (GMPP - Remaining Spend),GMPP Return,E239
+Unprofiled Remainder RDEL Baseline - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F239
+Unprofiled Remainder RDEL Forecast - One off new costs - investment in change (GMPP – Remaining Spend),GMPP Return,D240
+Unprofiled Remainder RDEL Forecast - Recurring new costs - investment in change,GMPP Return,E240
+Unprofiled Remainder RDEL Forecast - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F240
+Annual Steady State for RDEL recurring new costs,GMPP Return,E243
+Year RDEL spend stops,GMPP Return,E245
+Pre 16-17 CDEL Baseline - One off new costs - investment in change,GMPP Return,D248
+Pre 16-17 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E248
+Pre 16-17 CDEL Baseline - Recurring old costs,GMPP Return,F248
+Pre 16-17 CDEL Actual - One off new costs - investment in change,GMPP Return,D249
+Pre 16-17 CDEL Actual - Recurring new costs - investment in change,GMPP Return,E249
+Pre 16-17 CDEL Actual - Recurring old costs,GMPP Return,F249
+16-17 CDEL Baseline - One off new costs - investment in change,GMPP Return,D251
+16-17 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E251
+16-17 CDEL Baseline - Recurring old costs,GMPP Return,F251
+16-17 CDEL Forecast - One off new costs - investment in change,GMPP Return,D252
+16-17 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E252
+16-17 CDEL Forecast - Recurring old costs,GMPP Return,F252
+17-18 CDEL Baseline - One off new costs - investment in change,GMPP Return,D253
+17-18 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E253
+17-18 CDEL Baseline - Recurring old costs,GMPP Return,F253
+17-18 CDEL Forecast - One off new costs - investment in change,GMPP Return,D254
+17-18 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E254
+17-18 CDEL Forecast - Recurring old costs,GMPP Return,F254
+18-19 CDEL Baseline - One off new costs - investment in change,GMPP Return,D255
+18-19 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E255
+18-19 CDEL Baseline - Recurring old costs,GMPP Return,F255
+18-19 CDEL Forecast - One off new costs - investment in change,GMPP Return,D256
+18-19 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E256
+18-19 CDEL Forecast - Recurring old costs,GMPP Return,F256
+19-20 CDEL Baseline - One off new costs - investment in change,GMPP Return,D257
+19-20 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E257
+19-20 CDEL Baseline - Recurring old costs,GMPP Return,F257
+19-20 CDEL Forecast - One off new costs - investment in change,GMPP Return,D258
+19-20 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E258
+19-20 CDEL Forecast - Recurring old costs,GMPP Return,F258
+20-21 CDEL Baseline - One off new costs - investment in change,GMPP Return,D259
+20-21 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E259
+20-21 CDEL Baseline - Recurring old costs,GMPP Return,F259
+20-21 CDEL Forecast - One off new costs - investment in change,GMPP Return,D260
+20-21 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E260
+20-21 CDEL Forecast - Recurring old costs,GMPP Return,F260
+21-22 CDEL Baseline - One off new costs - investment in change,GMPP Return,D261
+21-22 CDEL Baseline - Recurring new costs - investment in change,GMPP Return,E261
+21-22 CDEL Baseline - Recurring old costs,GMPP Return,F261
+21-22 CDEL Forecast - One off new costs - investment in change,GMPP Return,D262
+21-22 CDEL Forecast - Recurring new costs - investment in change,GMPP Return,E262
+21-22 CDEL Forecast - Recurring old costs,GMPP Return,F262
+Unprofiled Remainder CDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),GMPP Return,D263
+Unprofiled Remainder CDEL Baseline - Recurring old costs (GMPP - Remaining Spend),GMPP Return,E263
+Unprofiled Remainder CDEL Baseline - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F263
+Unprofiled Remainder CDEL Forecast - One off new costs - investment in change (GMPP - Remaining Spend),GMPP Return,D264
+Unprofiled Remainder CDEL Forecast - Recurring new costs - investment in change (GMPP - Remaining Spend),GMPP Return,E264
+Unprofiled Remainder CDEL Forecast - Recurring old costs (GMPP - Remaining Spend),GMPP Return,F264
+Annual Steady State for CDEL recurring new costs,GMPP Return,E267
+Year CDEL spend stops,GMPP Return,E270
+Unprofiled Remainder Baseline - Non-Gov both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I239
+Unprofiled Remainder Forecast - Non-Gov both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I240 
+Pre 16-17 Non-Gov both Revenue and Capital Baseline,GMPP Return,I224
+Pre 16-17 Non-Gov both Revenue and Capital Forecast,GMPP Return,I225
+16-17 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I227
+16-17 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I228
+17-18 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I229
+17-18 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I230
+18-19 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I231
+18-19 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I232
+19-20 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I233
+19-20 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I234
+20-21 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I235
+20-21 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I236
+21-22 Baseline - Non-Gov both Revenue and Capital,GMPP Return,I237
+21-22 Forecast - Non-Gov both Revenue and Capital,GMPP Return,I238
+Pre 16-17 Non-Gov both Revenue and Capital Baseline,GMPP Return,I248
+Pre 16-17 Non-Gov both Revenue and Capital Forecast,GMPP Return,I249
+16-17 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I251
+16-17 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I252
+17-18 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I253
+17-18 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I254
+18-19 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I255
+18-19 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I256
+19-20 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I257
+19-20 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I258
+20-21 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I259
+20-21 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I260
+21-22 Baseline - Income (£m) both Revenue and Capital,GMPP Return,I261
+21-22 Forecast - Income (£m) both Revenue and Capital,GMPP Return,I262
+Unprofiled Remainder Baseline - Income (£m) both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I263
+Unprofiled Remainder Forecast - Income (£m) both Revenue and Capital (GMPP - Remaining Spend),GMPP Return,I264
+Pre 16-17 BEN Baseline - Gov. Cashable,GMPP Return,D275
+Pre 16-17 BEN Baseline - Gov. Non-Cashable,GMPP Return,E275
+Pre 16-17 BEN Baseline - Economic (inc Economic (inc Private Partner),GMPP Return,G275
+Pre 16-17 BEN Baseline - Disbenefit Disbenefit UK Economic,GMPP Return,I275
+Pre 16-17 BEN Actual - Gov. Cashable,GMPP Return,D276
+Pre 16-17 BEN Actual - Gov. Non-Cashable,GMPP Return,E276
+Pre 16-17 BEN Actual - Economic (inc Private Partner),GMPP Return,G276
+Pre 16-17 BEN Actual - Disbenefit UK Economic,GMPP Return,I276
+16-17 BEN Baseline - Gov. Cashable,GMPP Return,D277
+16-17 BEN Baseline - Gov. Non-Cashable,GMPP Return,E277
+16-17 BEN Baseline - Economic (inc Private Partner),GMPP Return,G277
+16-17 BEN Baseline - Disbenefit UK Economic,GMPP Return,I277
+16-17 BEN Forecast - Gov. Cashable,GMPP Return,D278
+16-17 BEN Forecast - Gov. Non-Cashable,GMPP Return,E278
+16-17 BEN Forecast - Economic (inc Private Partner),GMPP Return,G278
+16-17 BEN Forecast - Disbenefit UK Economic,GMPP Return,I278
+17-18 BEN Baseline - Gov. Cashable,GMPP Return,D279
+17-18 BEN Baseline - Gov. Non-Cashable,GMPP Return,E279
+17-18 BEN Baseline - Economic (inc Private Partner),GMPP Return,G279
+17-18 BEN Baseline - Disbenefit UK Economic,GMPP Return,I279
+17-18 BEN Forecast - Gov. Cashable,GMPP Return,D280
+17-18 BEN Forecast - Gov. Non-Cashable,GMPP Return,E280
+17-18 BEN Forecast - Economic (inc Private Partner),GMPP Return,G280
+17-18 BEN Forecast - Disbenefit UK Economic,GMPP Return,I280
+18-19 BEN Baseline - Gov. Cashable,GMPP Return,D281
+18-19 BEN Baseline - Gov. Non-Cashable,GMPP Return,E281
+18-19 BEN Baseline - Economic (inc Private Partner),GMPP Return,G281
+18-19 BEN Baseline - Disbenefit UK Economic,GMPP Return,I281
+18-19 BEN Forecast - Gov. Cashable,GMPP Return,D282
+18-19 BEN Forecast - Gov. Non-Cashable,GMPP Return,E282
+18-19 BEN Forecast - Economic (inc Private Partner),GMPP Return,G282
+18-19 BEN Forecast - Disbenefit UK Economic,GMPP Return,I282
+19-20 BEN Baseline - Gov. Cashable,GMPP Return,D283
+19-20 BEN Baseline - Gov. Non-Cashable,GMPP Return,E283
+19-20 BEN Baseline - Economic (inc Private Partner),GMPP Return,G283
+19-20 BEN Baseline - Disbenefit UK Economic,GMPP Return,I283
+19-20 BEN Forecast - Gov. Cashable,GMPP Return,D284
+19-20 BEN Forecast - Gov. Non-Cashable,GMPP Return,E284
+19-20 BEN Forecast - Economic (inc Private Partner),GMPP Return,G284
+19-20 BEN Forecast - Disbenefit UK Economic,GMPP Return,I284
+20-21 BEN Baseline - Gov. Cashable,GMPP Return,D285
+20-21 BEN Baseline - Gov. Non-Cashable,GMPP Return,E285
+20-21 BEN Baseline - Economic (inc Private Partner),GMPP Return,G285
+20-21 BEN Baseline - Disbenefit UK Economic,GMPP Return,I285
+20-21 BEN Forecast - Gov. Cashable,GMPP Return,D286
+20-21 BEN Forecast - Gov. Non-Cashable,GMPP Return,E286
+20-21 BEN Forecast - Economic (inc Private Partner),GMPP Return,G286
+20-21 BEN Forecast - Disbenefit UK Economic,GMPP Return,I286
+21-22 BEN Baseline - Gov. Cashable,GMPP Return,D287
+21-22 BEN Baseline - Gov. Non-Cashable,GMPP Return,E287
+21-22 BEN Baseline - Economic (inc Private Partner),GMPP Return,G287
+21-22 BEN Baseline - Disbenefit UK Economic,GMPP Return,I287
+21-22 BEN Forecast - Gov. Cashable,GMPP Return,D288
+21-22 BEN Forecast - Gov. Non-Cashable,GMPP Return,E288
+21-22 BEN Forecast - Economic (inc Private Partner),GMPP Return,G288
+21-22 BEN Forecast - Disbenefit UK Economic,GMPP Return,I288
+21-22 BEN Forecast - Total Monetised Benefits,GMPP Return,D289
+Unprofiled Remainder BEN Baseline - Gov. Non-Cashable,GMPP Return,E289
+Unprofiled Remainder BEN Baseline - Economic (inc Private Partner),GMPP Return,G289
+Unprofiled Remainder BEN Baseline - Disbenefit UK Economic,GMPP Return,I289
+Unprofiled Remainder BEN Forecast - Gov. Cashable,GMPP Return,D290
+Unprofiled Remainder BEN Forecast - Gov. Non-Cashable,GMPP Return,E290
+Unprofiled Remainder BEN Forecast - Economic (inc Private Partner),GMPP Return,G290
+Unprofiled Remainder BEN Forecast - Disbenefit UK Economic,GMPP Return,I290
+Year BEN spend stops,GMPP Return,E294
+Benefits Narrative,GMPP Return,C296
+Percentage of time spent on SRO Role,GMPP Return,H82
+Project stage,GMPP Return,
+Project stage if Other,GMPP Return,
+Assurance MM1,GMPP Return,
+Assurance MM1 Original Baseline,GMPP Return,
+Assurance MM1 Latest Approved Baseline,GMPP Return,
+Assurance MM1 Forecast - Actual,GMPP Return,
+Assurance MM1 DCA,GMPP Return,
+Assurance MM1 Notes,GMPP Return,
+Assurance MM2,GMPP Return,
+Assurance MM2 Original Baseline,GMPP Return,
+Assurance MM2 Latest Approved Baseline,GMPP Return,
+Assurance MM2 Forecast - Actual,GMPP Return,
+Assurance MM2 DCA,GMPP Return,
+Assurance MM2 Notes,GMPP Return,
+Assurance MM3,GMPP Return,
+Assurance MM3 Original Baseline,GMPP Return,
+Assurance MM3 Latest Approved Baseline,GMPP Return,
+Assurance MM3 Forecast - Actual,GMPP Return,
+Assurance MM3 DCA,GMPP Return,
+Assurance MM3 Notes,GMPP Return,
+Assurance MM4,GMPP Return,
+Assurance MM4 Original Baseline,GMPP Return,
+Assurance MM4 Latest Approved Baseline,GMPP Return,
+Assurance MM4 Forecast - Actual,GMPP Return,
+Assurance MM4 DCA,GMPP Return,
+Assurance MM4 Notes,GMPP Return,
+Assurance MM5,GMPP Return,
+Assurance MM5 Original Baseline,GMPP Return,
+Assurance MM5 Latest Approved Baseline,GMPP Return,
+Assurance MM5 Forecast - Actual,GMPP Return,
+Assurance MM5 DCA,GMPP Return,
+Assurance MM5 Notes,GMPP Return,
+Assurance MM6,GMPP Return,
+Assurance MM6 Original Baseline,GMPP Return,
+Assurance MM6 Latest Approved Baseline,GMPP Return,
+Assurance MM6 Forecast - Actual,GMPP Return,
+Assurance MM6 DCA,GMPP Return,
+Assurance MM6 Notes,GMPP Return,
+Assurance MM7,GMPP Return,
+Assurance MM7 Original Baseline,GMPP Return,
+Assurance MM7 Latest Approved Baseline,GMPP Return,
+Assurance MM7 Forecast - Actual,GMPP Return,
+Assurance MM7 DCA,GMPP Return,
+Assurance MM7 Notes,GMPP Return,
+Assurance MM8,GMPP Return,
+Assurance MM8 Original Baseline,GMPP Return,
+Assurance MM8 Latest Approved Baseline,GMPP Return,
+Assurance MM8 Forecast - Actual,GMPP Return,
+Assurance MM8 DCA,GMPP Return,
+Assurance MM8 Notes,GMPP Return,
+Assurance MM9,GMPP Return,
+Assurance MM9 Original Baseline,GMPP Return,
+Assurance MM9 Latest Approved Baseline,GMPP Return,
+Assurance MM9 Forecast - Actual,GMPP Return,
+Assurance MM9 DCA,GMPP Return,
+Assurance MM9 Notes,GMPP Return,
+Assurance MM10,GMPP Return,
+Assurance MM10 Original Baseline,GMPP Return,
+Assurance MM10 Latest Approved Baseline,GMPP Return,
+Assurance MM10 Forecast - Actual,GMPP Return,
+Assurance MM10 DCA,GMPP Return,
+Assurance MM10 Notes,GMPP Return,
+Assurance MM11,GMPP Return,
+Assurance MM11 Original Baseline,GMPP Return,
+Assurance MM11 Latest Approved Baseline,GMPP Return,
+Assurance MM11 Forecast - Actual,GMPP Return,
+Assurance MM11 DCA,GMPP Return,
+Assurance MM11 Notes,GMPP Return,
+Assurance MM12,GMPP Return,
+Assurance MM12 Original Baseline,GMPP Return,
+Assurance MM12 Latest Approved Baseline,GMPP Return,
+Assurance MM12 Forecast - Actual,GMPP Return,
+Assurance MM12 DCA,GMPP Return,
+Assurance MM12 Notes,GMPP Return,
+Assurance MM13,GMPP Return,
+Assurance MM13 Original Baseline,GMPP Return,
+Assurance MM13 Latest Approved Baseline,GMPP Return,
+Assurance MM13 Forecast - Actual,GMPP Return,
+Assurance MM13 DCA,GMPP Return,
+Assurance MM13 Notes,GMPP Return,
+Assurance MM14,GMPP Return,
+Assurance MM14 Original Baseline,GMPP Return,
+Assurance MM14 Latest Approved Baseline,GMPP Return,
+Assurance MM14 Forecast - Actual,GMPP Return,
+Assurance MM14 DCA,GMPP Return,
+Assurance MM14 Notes,GMPP Return,
+Assurance MM15,GMPP Return,
+Assurance MM15 Original Baseline,GMPP Return,
+Assurance MM15 Latest Approved Baseline,GMPP Return,
+Assurance MM15 Forecast - Actual,GMPP Return,
+Assurance MM15 DCA,GMPP Return,
+Assurance MM15 Notes,GMPP Return,
+Assurance MM16,GMPP Return,
+Assurance MM16 Original Baseline,GMPP Return,
+Assurance MM16 Latest Approved Baseline,GMPP Return,
+Assurance MM16 Forecast - Actual,GMPP Return,
+Assurance MM16 DCA,GMPP Return,
+Assurance MM16 Notes,GMPP Return,
+Assurance MM17,GMPP Return,
+Assurance MM17 Original Baseline,GMPP Return,
+Assurance MM17 Latest Approved Baseline,GMPP Return,
+Assurance MM17 Forecast - Actual,GMPP Return,
+Assurance MM17 DCA,GMPP Return,
+Assurance MM17 Notes,GMPP Return,
+Assurance MM18,GMPP Return,
+Assurance MM18 Original Baseline,GMPP Return,
+Assurance MM18 Latest Approved Baseline,GMPP Return,
+Assurance MM18 Forecast - Actual,GMPP Return,
+Assurance MM18 DCA,GMPP Return,
+Assurance MM18 Notes,GMPP Return,
+GMPP - IPA ID Number,GMPP Return,D25
+GMPP - IPA ID Number 2,GMPP Return,G25
+GMPP - Dept, GMPP Return,
+GMPP - Main reason for joining GMPP,GMPP Return,C46
+GMPP - IPA DCA,GMPP Return,C70
+GMPP - IPA DCA Commentary,C71
+SRO ID,GMPP Return,
+PD ID,GMPP Return,
+GMPP Annual Report Category,GMPP Return,C45
