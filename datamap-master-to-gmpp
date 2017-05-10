@@ -20,9 +20,7 @@ Strategic Alignment/Government Policy (GMPP - Key drivers),GMPP Return,C38
 Primary Category,GMPP Return,C41
 If other please describe,GMPP Return,C44
 Secondary Category,GMPP Return,C42
-If other please describe,GMPP Return,
 Tertiary Category,GMPP Return,C43
-If other please describe,GMPP Return,
 GMPP - Main reason for joining GMPP,GMPP Return,C46
 Has Project Scope Changed?,GMPP Return,C48
 Scope Change Commentary (if applicable),GMPP Return,C49
@@ -616,7 +614,7 @@ Assurance MM18 DCA,GMPP Return,
 Assurance MM18 Notes,GMPP Return,
 GMPP - IPA ID Number,GMPP Return,C25
 GMPP - IPA ID Number 2,GMPP Return,D25
-GMPP - Dept, GMPP Return,
+GMPP - Dept,GMPP Return,
 GMPP - Main reason for joining GMPP,GMPP Return,C46
 GMPP - IPA DCA,GMPP Return,C70
 GMPP - IPA DCA Commentary,GMPP Return,C71

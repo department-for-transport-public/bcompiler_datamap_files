@@ -1,22 +1,12 @@
 key,bicc_sheet,bicc_cellref,bicc_verification_formula
 Project/Programme Name,Summary,B5,
 SRO Sign-Off,Summary,B49,
-GMPP - Classification, Official-Sensitive
-SRO Sign-Off,Summary,B49,
-GMPP - FD Sign-Off,Summary,
-GMPP - Person completing this return,
-GMPP - Single Point of Contact Email Address,
-GMPP - Single Point of Contact (SPOC),
-GMPP - Email Address,
 Reporting period (GMPP - Snapshot Date),Summary,G3,
 Quarter Joined,Summary,I3,
-GMPP - Sub-portfolio,
-GMPP/quarter formally joined 
 GMPP (GMPP - formally joined GMPP),Summary,G5
 IUK top 40,Summary,G6
 Top 37,Summary,I5
 DfT Business Plan,Summary,I6
-GMPP - IPA ID Number,GMPP info,B1,
 DFT ID Number,Summary,B6
 Working Contact Name,Summary,H8,
 Working Contact Telephone,Summary,H9,
@@ -24,7 +14,7 @@ Working Contact Email,Summary,H10,
 DfT Group,Summary,B8,DfT Group,
 DfT Division,Summary,B9,DfT Division,
 Agency or delivery partner (GMPP - Delivery Organisation primary),Summary,B10,Agency,
-GMPP- Reporting Department,DfT
+GMPP- Reporting Department,
 Strategic Alignment/Government Policy (GMPP - Key drivers),Summary,B26,
 Project Scope,Summary,G26 
 Brief project description (GMPP - brief descripton),Summary,G27,
@@ -32,7 +22,7 @@ Delivery Structure,Summary,G32,Delivery Structure,
 Description if 'Other',Summary,G33,
 Change Delivery Methodology,Summary,G39,Methodology,
 Primary Category,Summary,H41,Category
-If other please describe,Summary ,J41,
+If other please describe,Summary,J41,
 Secondary Category,Summary,H42,Category
 If other please describe,Summary,J42,
 Tertiary Category,Summary,H43,Category
@@ -67,15 +57,9 @@ Risk Level (RPA),Summary,H29,RPA level,
 Risk Level (RPA) Date,Summary,H30,
 Departmental DCA,Summary,B46,RAG,
 Departmental DCA Narrative,Summary,C47,
-MPA DCA,
-MPA DCA Narrative,
-SRO ID,
-GMPP - SRO  Surname,
-GMPP - SRO First Name(s),
 SRO Full Name,Summary,C12,
 SRO Email,Summary,C14,
 SRO Phone No.,Summary,C13,
-GMPP - if there are further SRO’s, please name?
 Percentage of time spent on SRO Role,Summary,C18,Percentage of time spent on SRO role,
 SRO Tenure Start Date,Summary,C15,
 SRO Tenure End Date,Summary,C17,
@@ -87,9 +71,6 @@ Date If Current SRO Letter Issued,Summary,C16,
 Has the SRO changed?,Summary,C19,Yes/No,
 If new SRO reason for change,Summary,C20,PD Changes,
 GMPP - New SRO - If 'other' please specify,Summary,
-GMPP PD ID,
-GMPP - PD  Surname,
-GMPP - PD First Name(s),
 PD Full Name,Summary,H12,
 PD Email,Summary,H14,
 PD Phone No.,Summary,H13,
