@@ -11,7 +11,7 @@ import csv
 
 
 def get_amending_fields() -> list:
-    with open('../finance_changes.csv', 'r') as amendment_file:
+    with open('finance_changes.csv', 'r') as amendment_file:
         a_reader = csv.reader(amendment_file)
         return [(item[1], item[0]) for item in a_reader]
 
@@ -20,11 +20,11 @@ if __name__ == "__main__":
 
     amending_fields = get_amending_fields()
 
-    with open('../new-dm.csv', 'w', encoding='utf-8') as outfile:
+    with open('new-dm.csv', 'w', encoding='utf-8') as outfile:
         writer = csv.writer(outfile)
 
         with open(
-            '../datamap-returns-to-master-WITH_HEADER_FORSQLITE.csv', 'r+', encoding='latin1') as f:
+            '../datamap.csv', 'r+', encoding='latin1') as f:
             reader = csv.reader(f)
             for line in reader:
 
