@@ -1,224 +1,224 @@
-Current ,New ,Notes
-Real or Nominal - Baseline,Real or Nominal - Baseline,
-Real or Nominal - Actual/Forecast,Real or Nominal - Actual/Forecast,
-Index Year,Index Year,
-Source of Finance,Source of Finance,
-Other Finance type Description,Other Finance type Description,
-NPV for all projects and NPV for programmes if available,NPV for all projects and NPV for programmes if available,
-Project cost to closure,Project cost to closure,
-Total Budget/Baseline Whole Life Cost (RDEL) (GMPP - Total),RDEL Total budget/BL ,
-Total Budget/Baseline Whole Life Cost (CDEL) (GMPP - Total),CDEL total budget/BL,
-Total Budget/Baseline Whole Life Cost (Non-Gov) (GMPP - Total),Non-Gov Total Budget/BL,
-Total Budget/baseline Whole Life Cost (GMPP - Total),Total Budget/BL,
-Total Forecast Whole Life Cost (RDEL) (GMPP - Total),RDEL Total Forecast,
-Total Forecast Whole Life Cost (CDEL) (GMPP - Total),CDEL Total Forecast,
-Total Forecast Whole Life Cost (Non-Gov) (GMPP - Total),Non-Gov Total Forecast,
-Total Forecast Whole Life Cost (GMPP - Total),Total Forecast,
-Total Variance Whole Life Cost (RDEL),RDEL Total Variance,
-Total Variance Whole Life Cost (CDEL),CDEL Total Variance ,
-Total Variance Whole Life Cost (Non-Gov),Non Gov Total Variance ,
-Total Variance Whole Life Cost,Total Variance ,
-Total Cost up to 2020/21 (RDEL) - Budget,RDEL Total Budget/BL SR (19/20),
-Total Cost up to 2020/21 (CDEL) - Budget,CDEL Total Budget/BL SR (20/21),
-Total Cost up to 2020/21 (Non-Gov) - Budget,Non-Gov Total Budget/BL SR (20/21),
-Total Cost up to 2020/21- Budget,Total Budget SR (20/21),
-Total Cost up to 2020/21 (RDEL) - Forecast,RDEL Total Forecast SR (19/20),
-Total Cost up to 2020/21 (CDEL) - Forecast,CDEL Total Forecast SR (20/21),
-Total Cost up to 2020/21 (Non-Gov) - Forecast,Non-Gov Total Forecast SR (20/21),
-Total Cost up to 2020/21- Forecast,Total Forecast SR (20/21),
-Project Costs Narrative RDEL,Project Costs Narrative RDEL,
-Project Costs Narrative CDEL,Project Costs Narrative CDEL,
-Pre 16-17 RDEL Baseline - One off new costs - investment in change,Pre 16-17 RDEL BL one off new costs,
-Pre 16-17 RDEL Baseline - Recurring new costs - investment in change,Pre 16-17 RDEL BL recurring new costs,
-Pre 16-17 RDEL Baseline - Recurring old costs,Pre 16-17 RDEL BL recurring old costs,
-Pre 16-17 RDEL Baseline - Whole Life Cost breakdown,Pre 16-17 RDEL BL Total ,
-Pre 16-17 RDEL Actual - One off new costs - investment in change,Pre 16-17 RDEL Actual one off new costs,
-Pre 16-17 RDEL Actual - Recurring new costs - investment in change,Pre 16-17 RDEL Actual recurring new costs,
-Pre 16-17 RDEL Actual - Recurring old costs,Pre 16-17 RDEL Actual recurring old costs,
-Pre 16-17 RDEL Actual - Whole Life Cost breakdown,Pre 16-17 RDEL Actual Total ,
-2016/2017 RDEL Spend on profile? - One off new costs - investment in change,RDEL one off new cost spend 16/17 on profile ,
-2016/2017 RDEL Spend on profile? - Recurring new costs - investment in change,RDEL recurring new cost spend 16/17 on profile ,
-2016/2017 RDEL Spend on profile? - recurring old costs,RDEL recurring old cost spend 16/17 on profile ,
-2016/2017 RDEL Spend on profile? - Whole Life Cost breakdown,RDEL total spend 16/17 on profile ,
-16-17 RDEL Baseline - One off new costs - investment in change,16-17 RDEL BL one off new costs,
-16-17 RDEL Baseline - Recurring new costs - investment in change,16-17 RDEL BL recurring new costs,
-16-17 RDEL Baseline - Recurring old costs,16-17 RDEL BL recurring old costs,
-16-17 RDEL Baseline - Whole Life Cost breakdown,16-17 RDEL BL Total ,
-16-17 RDEL Forecast - One off new costs - investment in change,16-17 RDEL Forecast one off new costs,
-16-17 RDEL Forecast - Recurring new costs - investment in change,16-17 RDEL Forecast recurring new costs,
-16-17 RDEL Forecast - Recurring old costs,16-17 RDEL Forecast recurring old costs,
-16-17 RDEL Forecast - Whole Life Cost breakdown,16-17 RDEL Forecast Total ,
-17-18 RDEL Baseline - One off new costs - investment in change,17-18 RDEL BL one off new costs,
-17-18 RDEL Baseline - Recurring new costs - investment in change,17-18 RDEL BL recurring new costs,
-17-18 RDEL Baseline - Recurring old costs,17-18 RDEL BL recurring old costs,
-17-18 RDEL Baseline - Whole Life Cost breakdown,17-18 RDEL BL Total ,
-17-18 RDEL Forecast - One off new costs - investment in change,17-18 RDEL Forecast one off new costs,
-17-18 RDEL Forecast - Recurring new costs - investment in change,17-18 RDEL Forecast recurring new costs,
-17-18 RDEL Forecast - Recurring old costs,17-18 RDEL Forecast recurring old costs,
-17-18 RDEL Forecast - Whole Life Cost breakdown,17-18 RDEL Forecast Total ,
-18-19 RDEL Baseline - One off new costs - investment in change,18-19 RDEL BL one off new costs,
-18-19 RDEL Baseline - Recurring new costs - investment in change,18-19 RDEL BL recurring new costs,
-18-19 RDEL Baseline - Recurring old costs,18-19 RDEL BL recurring old costs,
-18-19 RDEL Baseline - Whole Life Cost breakdown,18-19 RDEL BL Total ,
-18-19 RDEL Forecast - One off new costs - investment in change,18-19 RDEL Forecast one off new costs,
-18-19 RDEL Forecast - Recurring new costs - investment in change,18-19 RDEL Forecast recurring new costs,
-18-19 RDEL Forecast - Recurring old costs,18-19 RDEL Forecast recurring old costs,
-18-19 RDEL Forecast - Whole Life Cost breakdown,18-19 RDEL Forecast Total ,
-19-20 RDEL Baseline - One off new costs - investment in change,19-20 RDEL BL one off new costs,
-19-20 RDEL Baseline - Recurring new costs - investment in change,19-20 RDEL BL recurring new costs,
-19-20 RDEL Baseline - Recurring old costs,19-20 RDEL BL recurring old costs,
-19-20 RDEL Baseline - Whole Life Cost breakdown,19-20 RDEL BL Total ,
-19-20 RDEL Forecast - One off new costs - investment in change,19-20 RDEL Forecast one off new costs,
-19-20 RDEL Forecast - Recurring new costs - investment in change,19-20 RDEL Forecast recurring new costs,
-19-20 RDEL Forecast - Recurring old costs,19-20 RDEL Forecast recurring old costs,
-19-20 RDEL Forecast - Whole Life Cost breakdown,19-20 RDEL Forecast Total ,
-20-21 RDEL Baseline - One off new costs - investment in change,20-21 RDEL BL one off new costs,
-20-21 RDEL Baseline - Recurring new costs - investment in change,20-21 RDEL BL recurring new costs,
-20-21 RDEL Baseline - Recurring old costs,20-21 RDEL BL recurring old costs,
-20-21 RDEL Baseline - Whole Life Cost breakdown,20-21 RDEL BL Total ,
-20-21 RDEL Forecast - One off new costs - investment in change,20-21 RDEL Forecast one off new costs,
-20-21 RDEL Forecast - Recurring new costs - investment in change,20-21 RDEL Forecast recurring new costs,
-20-21 RDEL Forecast - Recurring old costs,20-21 RDEL Forecast recurring old costs,
-20-21 RDEL Forecast - Whole Life Cost breakdown,20-21 RDEL Forecast Total ,
-21-22 RDEL Baseline - One off new costs - investment in change,21-22 RDEL BL one off new costs,
-21-22 RDEL Baseline - Recurring new costs - investment in change,21-22 RDEL BL recurring new costs,
-21-22 RDEL Baseline - Recurring old costs,21-22 RDEL BL recurring old costs,
-21-22 RDEL Baseline - Whole Life Cost breakdown,21-22 RDEL BL Total ,
-21-22 RDEL Forecast - One off new costs - investment in change,21-22 RDEL Forecast one off new costs,
-21-22 RDEL Forecast - Recurring new costs - investment in change,21-22 RDEL Forecast recurring new costs,
-21-22 RDEL Forecast - Recurring old costs,21-22 RDEL Forecast recurring old costs,
-21-22 RDEL Forecast - Whole Life Cost breakdown,21-22 RDEL Forecast Total ,
-Unprofiled Remainder RDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),Unprofiled RDEL BL one off new costs,
-Unprofiled Remainder RDEL Baseline - Recurring new costs - investment in change (GMPP - Remaining Spend),Unprofiled RDEL BL recurring new costs,
-Unprofiled Remainder RDEL Baseline - Recurring old costs (GMPP - Remaining Spend),Unprofiled RDEL BL recurring old costs,
-Unprofiled Remainder RDEL Baseline - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled RDEL BL Total ,
-Unprofiled Remainder RDEL Forecast - One off new costs - investment in change (GMPP – Remaining Spend),Unprofiled RDEL Forecast one off new costs,
-Unprofiled Remainder RDEL Forecast - Recurring new costs - investment in change,Unprofiled RDEL Forecast recurring new costs,
-Unprofiled Remainder RDEL Forecast - Recurring old costs (GMPP - Remaining Spend),Unprofiled RDEL Forecast recurring old costs,
-Unprofiled Remainder RDEL Forecast - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled RDEL Forecast Total ,
-Total RDEL Baseline - One off new costs - investment in change,Total RDEL BL one off new costs,
-Total RDEL Baseline - Recurring new costs - investment in change,Total RDEL BL recurring new costs,
-Total RDEL Baseline - Recurring old costs,Total RDEL BL recurring old costs,
-Total RDEL Baseline - Whole Life Cost breakdown,Total RDEL BL Total ,
-Total RDEL Forecast - One off new costs - investment in change,TotalRDEL Forecast one off new costs,
-Total RDEL Forecast - Recurring new costs - investment in change,Total RDEL Forecast recurring new costs,
-Total RDEL Forecast - Recurring old costs,Total RDEL Forecast recurring old costs,
-Total RDEL Forecast - Whole Life Cost breakdown,Total RDEL Forecast Total ,
-Annual Steady State for RDEL recurring new costs,Annual Steady State for RDEL recurring new costs,
-Year RDEL spend stops,Year RDEL spend stops,
-Pre 16-17 CDEL Baseline - One off new costs - investment in change,Pre 16-17 CDEL BL one off new costs,
-Pre 16-17 CDEL Baseline - Recurring new costs - investment in change,Pre 16-17 CDEL BL recurring new costs,
-Pre 16-17 CDEL Baseline - Recurring old costs,Pre 16-17 CDEL BL recurring old costs,
-Pre 16-17 CDEL Baseline - Whole Life Cost breakdown,Pre 16-17 CDEL BL Total ,
-Pre 16-17 CDEL Actual - One off new costs - investment in change,Pre 16-17 CDEL Actual one off new costs,
-Pre 16-17 CDEL Actual - Recurring new costs - investment in change,Pre 16-17 CDEL Actual recurring new costs,
-Pre 16-17 CDEL Actual - Recurring old costs,Pre 16-17 CDEL Actual recurring old costs,
-Pre 16-17 CDEL Actual - Whole Life Cost breakdown,Pre 16-17 CDEL Actual Total ,
-2016/2017 CDEL Spend on profile? - One off new costs - investment in change,CDEL one off new cost spend in year on profile ,
-2016/2017 CDEL Spend on profile? - Recurring new costs - investment in change,CDEL recurring new cost spend in year on profile ,
-2016/2017 CDEL Spend on profile? - Recurring old costs,CDEL recurring old cost spend in year on profile ,
-2016/2017 CDEL Spend on profile? - Whole Life Cost breakdown,CDEL total spend in year on profile ,
-16-17 CDEL Baseline - One off new costs - investment in change,16-17 CDEL BL one off new costs,
-16-17 CDEL Baseline - Recurring new costs - investment in change,16-17 CDEL BL recurring new costs,
-16-17 CDEL Baseline - Recurring old costs,16-17 CDEL BL recurring old costs,
-16-17 CDEL Baseline - Whole Life Cost breakdown,16-17 CDEL BL Total ,
-16-17 CDEL Forecast - One off new costs - investment in change,16-17 CDEL Forecast one off new costs,
-16-17 CDEL Forecast - Recurring new costs - investment in change,16-17 CDEL Forecast recurring new costs,
-16-17 CDEL Forecast - Recurring old costs,16-17 CDEL Forecast recurring old costs,
-16-17 CDEL Forecast - Whole Life Cost breakdown,16-17 CDEL Forecast Total ,
-17-18 CDEL Baseline - One off new costs - investment in change,17-18 CDEL BL one off new costs,
-17-18 CDEL Baseline - Recurring new costs - investment in change,17-18 CDEL BL recurring new costs,
-17-18 CDEL Baseline - Recurring old costs,17-18 CDEL BL recurring old costs,
-17-18 CDEL Baseline - Whole Life Cost breakdown,17-18 CDEL BL Total ,
-17-18 CDEL Forecast - One off new costs - investment in change,17-18 CDEL Forecast one off new costs,
-17-18 CDEL Forecast - Recurring new costs - investment in change,17-18 CDEL Forecast recurring new costs,
-17-18 CDEL Forecast - Recurring old costs,17-18 CDEL Forecast recurring old costs,
-17-18 CDEL Forecast - Whole Life Cost breakdown,17-18 CDEL Forecast Total ,
-18-19 CDEL Baseline - One off new costs - investment in change,18-19 CDEL BL one off new costs,
-18-19 CDEL Baseline - Recurring new costs - investment in change,18-19 CDEL BL recurring new costs,
-18-19 CDEL Baseline - Recurring old costs,18-19 CDEL BL recurring old costs,
-18-19 CDEL Baseline - Whole Life Cost breakdown,18-19 CDEL BL Total ,
-18-19 CDEL Forecast - One off new costs - investment in change,18-19 CDEL Forecast one off new costs,
-18-19 CDEL Forecast - Recurring new costs - investment in change,18-19 CDEL Forecast recurring new costs,
-18-19 CDEL Forecast - Recurring old costs,18-19 CDEL Forecast recurring old costs,
-18-19 CDEL Forecast - Whole Life Cost breakdown,18-19 CDEL Forecast Total ,
-19-20 CDEL Baseline - One off new costs - investment in change,19-20 CDEL BL one off new costs,
-19-20 CDEL Baseline - Recurring new costs - investment in change,19-20 CDEL BL recurring new costs,
-19-20 CDEL Baseline - Recurring old costs,19-20 CDEL BL recurring old costs,
-19-20 CDEL Baseline - Whole Life Cost breakdown,19-20 CDEL BL Total ,
-19-20 CDEL Forecast - One off new costs - investment in change,19-20 CDEL Forecast one off new costs,
-19-20 CDEL Forecast - Recurring new costs - investment in change,19-20 CDEL Forecast recurring new costs,
-19-20 CDEL Forecast - Recurring old costs,19-20 CDEL Forecast recurring old costs,
-19-20 CDEL Forecast - Whole Life Cost breakdown,19-20 CDEL Forecast Total ,
-20-21 CDEL Baseline - One off new costs - investment in change,20-21 CDEL BL one off new costs,
-20-21 CDEL Baseline - Recurring new costs - investment in change,20-21 CDEL BL recurring new costs,
-20-21 CDEL Baseline - Recurring old costs,20-21 CDEL BL recurring old costs,
-20-21 CDEL Baseline - Whole Life Cost breakdown,20-21 CDEL BL Total ,
-20-21 CDEL Forecast - One off new costs - investment in change,20-21 CDEL Forecast one off new costs,
-20-21 CDEL Forecast - Recurring new costs - investment in change,20-21 CDEL Forecast recurring new costs,
-20-21 CDEL Forecast - Recurring old costs,20-21 CDEL Forecast recurring old costs,
-20-21 CDEL Forecast - Whole Life Cost breakdown,20-21 CDEL Forecast Total ,
-21-22 CDEL Baseline - One off new costs - investment in change,21-22 CDEL BL one off new costs,
-21-22 CDEL Baseline - Recurring new costs - investment in change,21-22 CDEL BL recurring new costs,
-21-22 CDEL Baseline - Recurring old costs,21-22 CDEL BL recurring old costs,
-21-22 CDEL Baseline - Whole Life Cost breakdown,21-22 CDEL BL Total ,
-21-22 CDEL Forecast - One off new costs - investment in change,21-22 CDEL Forecast one off new costs,
-21-22 CDEL Forecast - Recurring new costs - investment in change,21-22 CDEL Forecast recurring new costs,
-21-22 CDEL Forecast - Recurring old costs,21-22 CDEL Forecast recurring old costs,
-21-22 CDEL Forecast - Whole Life Cost breakdown,21-22 CDEL Forecast Total ,
-Unprofiled Remainder CDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL BL one off new costs,
-Unprofiled Remainder CDEL Baseline - Recurring new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL BL recurring new costs,
-Unprofiled Remainder CDEL Baseline - Recurring old costs (GMPP - Remaining Spend),Unprofiled CDEL BL recurring old costs,
-Unprofiled Remainder CDEL Baseline - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled CDEL BL Total ,
-Unprofiled Remainder CDEL Forecast - One off new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL Forecast one off new costs,
-Unprofiled Remainder CDEL Forecast - Recurring new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL Forecast recurring new costs,
-Unprofiled Remainder CDEL Forecast - Recurring old costs (GMPP - Remaining Spend),Unprofiled CDEL Forecast recurring old costs,
-Unprofiled Remainder CDEL Forecast - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled CDEL Forecast Total ,
-Total CDEL Baseline - One off new costs - investment in change,Total CDEL BL one off new costs,
-Total CDEL Baseline - Recurring new costs - investment in change,Total CDEL BL recurring new costs,
-Total CDEL Baseline - Recurring old costs,Total CDEL BL recurring old costs,
-Total CDEL Baseline - Whole Life Cost breakdown,Total CDEL BL Total ,
-Total CDEL Forecast - One off new costs - investment in change,Total CDEL Forecast one off new costs,
-Total CDEL Forecast - Recurring new costs - investment in change,Total CDEL Forecast recurring new costs,
-Total CDEL Forecast - Recurring old costs,Total CDEL Forecast recurring old costs,
-Total CDEL Forecast - Whole Life Cost breakdown,Total CDEL Forecast Total ,
-Annual Steady State for CDEL recurring new costs,Annual Steady State for CDEL recurring new costs,
-Year CDEL spend stops,Year CDEL spend stops,
-Unprofiled Remainder RDEL Baseline - Non-Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled Non-Gov BL,sequence - this block of four should come after 21-22 forecast non-gov. 
-Unprofiled Remainder RDEL Forecast - Non-Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled  Non-Gov Forecast,sequence - this block of four should come after 21-22 forecast non-gov. 
-Total Baseline - Non-Gov both Revenue and Capital,Total BL Non-Gov ,sequence - this block of four should come after 21-22 forecast non-gov. 
-Total Forecast - Non-Gov both Revenue and Capital,Total Forecast Non-Gov ,sequence - this block of four should come after 21-22 forecast non-gov. 
-Pre 16-17 Baseline - Non-Gov both Revenue and Capital,Pre 16-17 BL Non-Gov ,
-Pre 16-17 Forecast - Non-Gov both Revenue and Capital,Pre 16-17 Forecast Non-Gov BL,
-2016/2017 Non-Gov (£m) Revenue & Capital Spend on profile?,16 - 17 Non-Gov Spend on profile?,
-16-17 Baseline - Non-Gov both Revenue and Capital,16-17 BL Non-Gov ,
-16-17 Forecast - Non-Gov both Revenue and Capital,16-17 Forecast Non-Gov,
-17-18 Baseline - Non-Gov both Revenue and Capital,17-18 BL Non-Gov ,
-17-18 Forecast - Non-Gov both Revenue and Capital,17-18 Forecast Non-Gov ,
-18-19 Baseline - Non-Gov both Revenue and Capital,18-19 BL Non-Gov ,
-18-19 Forecast - Non-Gov both Revenue and Capital,18-19 Forecast Non-Gov,
-19-20 Baseline - Non-Gov both Revenue and Capital,19-20 BL Non-Gov,
-19-20 Forecast - Non-Gov both Revenue and Capital,19-20 Forecast Non-Gov,
-20-21 Baseline - Non-Gov both Revenue and Capital,20-21 BL Non-Gov ,
-20-21 Forecast - Non-Gov both Revenue and Capital,20-21 Forecast Non-Gov,
-21-22 Baseline - Non-Gov both Revenue and Capital,21-22 BL Non-Gov ,
-21-22 Forecast - Non-Gov both Revenue and Capital,21-22 Forecast Non-Gov,
-Pre 16-17 Baseline - Income (£m) both Revenue and Capital,Pre 16-17 BL Income ,
-Pre 16-17 Forecast - Income (£m) both Revenue and Capital,Pre 16-17 Forecast Income ,
-2016/2017Income (£m) Revenue & Capital Spend on Profile?,16-17 Income Spend on Profile?,
-16-17 Baseline - Income (£m) both Revenue and Capital,16-17 BL Income ,
-16-17 Forecast - Income (£m) both Revenue and Capital,16-17 Forecast Income,
-17-18 Baseline - Income (£m) both Revenue and Capital,s,
-17-18 Forecast - Income (£m) both Revenue and Capital,17-18 Forecast Income ,
-18-19 Baseline - Income (£m) both Revenue and Capital,18-19 BL Income ,
-18-19 Forecast - Income (£m) both Revenue and Capital,18-19 Forecast Income ,
-19-20 Baseline - Income (£m) both Revenue and Capital,19-20 BL Income ,
-19-20 Forecast - Income (£m) both Revenue and Capital,19-20 Forecast Income ,
-20-21 Baseline - Income (£m) both Revenue and Capital,20-21 BL Income,
-20-21 Forecast - Income (£m) both Revenue and Capital,20-21 Forecast Income ,
-21-22 Baseline - Income (£m) both Revenue and Capital,21-22 BL Income,
-21-22 Forecast - Income (£m) both Revenue and Capital,21-22 Forecast Income,
-Unprofiled Remainder Baseline - Non Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled BL Income ,
-Unprofiled Remainder Forecast - Non Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled Forecast Income,
-Total Baseline - Income (£m) both Revenue and Capital,Total BL Income ,
-Total Forecast - Income (£m) both Revenue and Capital,Total Forecast Icome,
+Current,New
+Real or Nominal - Baseline,Real or Nominal - Baseline
+Real or Nominal - Actual/Forecast,Real or Nominal - Actual/Forecast
+Index Year,Index Year
+Source of Finance,Source of Finance
+Other Finance type Description,Other Finance type Description
+NPV for all projects and NPV for programmes if available,NPV for all projects and NPV for programmes if available
+Project cost to closure,Project cost to closure
+Total Budget/Baseline Whole Life Cost (RDEL) (GMPP - Total),RDEL Total budget/BL 
+Total Budget/Baseline Whole Life Cost (CDEL) (GMPP - Total),CDEL total budget/BL
+Total Budget/Baseline Whole Life Cost (Non-Gov) (GMPP - Total),Non-Gov Total Budget/BL
+Total Budget/baseline Whole Life Cost (GMPP - Total),Total Budget/BL
+Total Forecast Whole Life Cost (RDEL) (GMPP - Total),RDEL Total Forecast
+Total Forecast Whole Life Cost (CDEL) (GMPP - Total),CDEL Total Forecast
+Total Forecast Whole Life Cost (Non-Gov) (GMPP - Total),Non-Gov Total Forecast
+Total Forecast Whole Life Cost (GMPP - Total),Total Forecast
+Total Variance Whole Life Cost (RDEL),RDEL Total Variance
+Total Variance Whole Life Cost (CDEL),CDEL Total Variance 
+Total Variance Whole Life Cost (Non-Gov),Non Gov Total Variance 
+Total Variance Whole Life Cost,Total Variance 
+Total Cost up to 2020/21 (RDEL) - Budget,RDEL Total Budget/BL SR (19/20)
+Total Cost up to 2020/21 (CDEL) - Budget,CDEL Total Budget/BL SR (20/21)
+Total Cost up to 2020/21 (Non-Gov) - Budget,Non-Gov Total Budget/BL SR (20/21)
+Total Cost up to 2020/21- Budget,Total Budget SR (20/21)
+Total Cost up to 2020/21 (RDEL) - Forecast,RDEL Total Forecast SR (19/20)
+Total Cost up to 2020/21 (CDEL) - Forecast,CDEL Total Forecast SR (20/21)
+Total Cost up to 2020/21 (Non-Gov) - Forecast,Non-Gov Total Forecast SR (20/21)
+Total Cost up to 2020/21- Forecast,Total Forecast SR (20/21)
+Project Costs Narrative RDEL,Project Costs Narrative RDEL
+Project Costs Narrative CDEL,Project Costs Narrative CDEL
+Pre 16-17 RDEL Baseline - One off new costs - investment in change,Pre 16-17 RDEL BL one off new costs
+Pre 16-17 RDEL Baseline - Recurring new costs - investment in change,Pre 16-17 RDEL BL recurring new costs
+Pre 16-17 RDEL Baseline - Recurring old costs,Pre 16-17 RDEL BL recurring old costs
+Pre 16-17 RDEL Baseline - Whole Life Cost breakdown,Pre 16-17 RDEL BL Total 
+Pre 16-17 RDEL Actual - One off new costs - investment in change,Pre 16-17 RDEL Actual one off new costs
+Pre 16-17 RDEL Actual - Recurring new costs - investment in change,Pre 16-17 RDEL Actual recurring new costs
+Pre 16-17 RDEL Actual - Recurring old costs,Pre 16-17 RDEL Actual recurring old costs
+Pre 16-17 RDEL Actual - Whole Life Cost breakdown,Pre 16-17 RDEL Actual Total 
+2016/2017 RDEL Spend on profile? - One off new costs - investment in change,RDEL one off new cost spend 16/17 on profile 
+2016/2017 RDEL Spend on profile? - Recurring new costs - investment in change,RDEL recurring new cost spend 16/17 on profile 
+2016/2017 RDEL Spend on profile? - recurring old costs,RDEL recurring old cost spend 16/17 on profile 
+2016/2017 RDEL Spend on profile? - Whole Life Cost breakdown,RDEL total spend 16/17 on profile 
+16-17 RDEL Baseline - One off new costs - investment in change,16-17 RDEL BL one off new costs
+16-17 RDEL Baseline - Recurring new costs - investment in change,16-17 RDEL BL recurring new costs
+16-17 RDEL Baseline - Recurring old costs,16-17 RDEL BL recurring old costs
+16-17 RDEL Baseline - Whole Life Cost breakdown,16-17 RDEL BL Total 
+16-17 RDEL Forecast - One off new costs - investment in change,16-17 RDEL Forecast one off new costs
+16-17 RDEL Forecast - Recurring new costs - investment in change,16-17 RDEL Forecast recurring new costs
+16-17 RDEL Forecast - Recurring old costs,16-17 RDEL Forecast recurring old costs
+16-17 RDEL Forecast - Whole Life Cost breakdown,16-17 RDEL Forecast Total 
+17-18 RDEL Baseline - One off new costs - investment in change,17-18 RDEL BL one off new costs
+17-18 RDEL Baseline - Recurring new costs - investment in change,17-18 RDEL BL recurring new costs
+17-18 RDEL Baseline - Recurring old costs,17-18 RDEL BL recurring old costs
+17-18 RDEL Baseline - Whole Life Cost breakdown,17-18 RDEL BL Total 
+17-18 RDEL Forecast - One off new costs - investment in change,17-18 RDEL Forecast one off new costs
+17-18 RDEL Forecast - Recurring new costs - investment in change,17-18 RDEL Forecast recurring new costs
+17-18 RDEL Forecast - Recurring old costs,17-18 RDEL Forecast recurring old costs
+17-18 RDEL Forecast - Whole Life Cost breakdown,17-18 RDEL Forecast Total 
+18-19 RDEL Baseline - One off new costs - investment in change,18-19 RDEL BL one off new costs
+18-19 RDEL Baseline - Recurring new costs - investment in change,18-19 RDEL BL recurring new costs
+18-19 RDEL Baseline - Recurring old costs,18-19 RDEL BL recurring old costs
+18-19 RDEL Baseline - Whole Life Cost breakdown,18-19 RDEL BL Total 
+18-19 RDEL Forecast - One off new costs - investment in change,18-19 RDEL Forecast one off new costs
+18-19 RDEL Forecast - Recurring new costs - investment in change,18-19 RDEL Forecast recurring new costs
+18-19 RDEL Forecast - Recurring old costs,18-19 RDEL Forecast recurring old costs
+18-19 RDEL Forecast - Whole Life Cost breakdown,18-19 RDEL Forecast Total 
+19-20 RDEL Baseline - One off new costs - investment in change,19-20 RDEL BL one off new costs
+19-20 RDEL Baseline - Recurring new costs - investment in change,19-20 RDEL BL recurring new costs
+19-20 RDEL Baseline - Recurring old costs,19-20 RDEL BL recurring old costs
+19-20 RDEL Baseline - Whole Life Cost breakdown,19-20 RDEL BL Total 
+19-20 RDEL Forecast - One off new costs - investment in change,19-20 RDEL Forecast one off new costs
+19-20 RDEL Forecast - Recurring new costs - investment in change,19-20 RDEL Forecast recurring new costs
+19-20 RDEL Forecast - Recurring old costs,19-20 RDEL Forecast recurring old costs
+19-20 RDEL Forecast - Whole Life Cost breakdown,19-20 RDEL Forecast Total 
+20-21 RDEL Baseline - One off new costs - investment in change,20-21 RDEL BL one off new costs
+20-21 RDEL Baseline - Recurring new costs - investment in change,20-21 RDEL BL recurring new costs
+20-21 RDEL Baseline - Recurring old costs,20-21 RDEL BL recurring old costs
+20-21 RDEL Baseline - Whole Life Cost breakdown,20-21 RDEL BL Total 
+20-21 RDEL Forecast - One off new costs - investment in change,20-21 RDEL Forecast one off new costs
+20-21 RDEL Forecast - Recurring new costs - investment in change,20-21 RDEL Forecast recurring new costs
+20-21 RDEL Forecast - Recurring old costs,20-21 RDEL Forecast recurring old costs
+20-21 RDEL Forecast - Whole Life Cost breakdown,20-21 RDEL Forecast Total 
+21-22 RDEL Baseline - One off new costs - investment in change,21-22 RDEL BL one off new costs
+21-22 RDEL Baseline - Recurring new costs - investment in change,21-22 RDEL BL recurring new costs
+21-22 RDEL Baseline - Recurring old costs,21-22 RDEL BL recurring old costs
+21-22 RDEL Baseline - Whole Life Cost breakdown,21-22 RDEL BL Total 
+21-22 RDEL Forecast - One off new costs - investment in change,21-22 RDEL Forecast one off new costs
+21-22 RDEL Forecast - Recurring new costs - investment in change,21-22 RDEL Forecast recurring new costs
+21-22 RDEL Forecast - Recurring old costs,21-22 RDEL Forecast recurring old costs
+21-22 RDEL Forecast - Whole Life Cost breakdown,21-22 RDEL Forecast Total 
+Unprofiled Remainder RDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),Unprofiled RDEL BL one off new costs
+Unprofiled Remainder RDEL Baseline - Recurring new costs - investment in change (GMPP - Remaining Spend),Unprofiled RDEL BL recurring new costs
+Unprofiled Remainder RDEL Baseline - Recurring old costs (GMPP - Remaining Spend),Unprofiled RDEL BL recurring old costs
+Unprofiled Remainder RDEL Baseline - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled RDEL BL Total 
+Unprofiled Remainder RDEL Forecast - One off new costs - investment in change (GMPP – Remaining Spend),Unprofiled RDEL Forecast one off new costs
+Unprofiled Remainder RDEL Forecast - Recurring new costs - investment in change,Unprofiled RDEL Forecast recurring new costs
+Unprofiled Remainder RDEL Forecast - Recurring old costs (GMPP - Remaining Spend),Unprofiled RDEL Forecast recurring old costs
+Unprofiled Remainder RDEL Forecast - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled RDEL Forecast Total 
+Total RDEL Baseline - One off new costs - investment in change,Total RDEL BL one off new costs
+Total RDEL Baseline - Recurring new costs - investment in change,Total RDEL BL recurring new costs
+Total RDEL Baseline - Recurring old costs,Total RDEL BL recurring old costs
+Total RDEL Baseline - Whole Life Cost breakdown,Total RDEL BL Total 
+Total RDEL Forecast - One off new costs - investment in change,TotalRDEL Forecast one off new costs
+Total RDEL Forecast - Recurring new costs - investment in change,Total RDEL Forecast recurring new costs
+Total RDEL Forecast - Recurring old costs,Total RDEL Forecast recurring old costs
+Total RDEL Forecast - Whole Life Cost breakdown,Total RDEL Forecast Total 
+Annual Steady State for RDEL recurring new costs,Annual Steady State for RDEL recurring new costs
+Year RDEL spend stops,Year RDEL spend stops
+Pre 16-17 CDEL Baseline - One off new costs - investment in change,Pre 16-17 CDEL BL one off new costs
+Pre 16-17 CDEL Baseline - Recurring new costs - investment in change,Pre 16-17 CDEL BL recurring new costs
+Pre 16-17 CDEL Baseline - Recurring old costs,Pre 16-17 CDEL BL recurring old costs
+Pre 16-17 CDEL Baseline - Whole Life Cost breakdown,Pre 16-17 CDEL BL Total 
+Pre 16-17 CDEL Actual - One off new costs - investment in change,Pre 16-17 CDEL Actual one off new costs
+Pre 16-17 CDEL Actual - Recurring new costs - investment in change,Pre 16-17 CDEL Actual recurring new costs
+Pre 16-17 CDEL Actual - Recurring old costs,Pre 16-17 CDEL Actual recurring old costs
+Pre 16-17 CDEL Actual - Whole Life Cost breakdown,Pre 16-17 CDEL Actual Total 
+2016/2017 CDEL Spend on profile? - One off new costs - investment in change,CDEL one off new cost spend in year on profile 
+2016/2017 CDEL Spend on profile? - Recurring new costs - investment in change,CDEL recurring new cost spend in year on profile 
+2016/2017 CDEL Spend on profile? - Recurring old costs,CDEL recurring old cost spend in year on profile 
+2016/2017 CDEL Spend on profile? - Whole Life Cost breakdown,CDEL total spend in year on profile 
+16-17 CDEL Baseline - One off new costs - investment in change,16-17 CDEL BL one off new costs
+16-17 CDEL Baseline - Recurring new costs - investment in change,16-17 CDEL BL recurring new costs
+16-17 CDEL Baseline - Recurring old costs,16-17 CDEL BL recurring old costs
+16-17 CDEL Baseline - Whole Life Cost breakdown,16-17 CDEL BL Total 
+16-17 CDEL Forecast - One off new costs - investment in change,16-17 CDEL Forecast one off new costs
+16-17 CDEL Forecast - Recurring new costs - investment in change,16-17 CDEL Forecast recurring new costs
+16-17 CDEL Forecast - Recurring old costs,16-17 CDEL Forecast recurring old costs
+16-17 CDEL Forecast - Whole Life Cost breakdown,16-17 CDEL Forecast Total 
+17-18 CDEL Baseline - One off new costs - investment in change,17-18 CDEL BL one off new costs
+17-18 CDEL Baseline - Recurring new costs - investment in change,17-18 CDEL BL recurring new costs
+17-18 CDEL Baseline - Recurring old costs,17-18 CDEL BL recurring old costs
+17-18 CDEL Baseline - Whole Life Cost breakdown,17-18 CDEL BL Total 
+17-18 CDEL Forecast - One off new costs - investment in change,17-18 CDEL Forecast one off new costs
+17-18 CDEL Forecast - Recurring new costs - investment in change,17-18 CDEL Forecast recurring new costs
+17-18 CDEL Forecast - Recurring old costs,17-18 CDEL Forecast recurring old costs
+17-18 CDEL Forecast - Whole Life Cost breakdown,17-18 CDEL Forecast Total 
+18-19 CDEL Baseline - One off new costs - investment in change,18-19 CDEL BL one off new costs
+18-19 CDEL Baseline - Recurring new costs - investment in change,18-19 CDEL BL recurring new costs
+18-19 CDEL Baseline - Recurring old costs,18-19 CDEL BL recurring old costs
+18-19 CDEL Baseline - Whole Life Cost breakdown,18-19 CDEL BL Total 
+18-19 CDEL Forecast - One off new costs - investment in change,18-19 CDEL Forecast one off new costs
+18-19 CDEL Forecast - Recurring new costs - investment in change,18-19 CDEL Forecast recurring new costs
+18-19 CDEL Forecast - Recurring old costs,18-19 CDEL Forecast recurring old costs
+18-19 CDEL Forecast - Whole Life Cost breakdown,18-19 CDEL Forecast Total 
+19-20 CDEL Baseline - One off new costs - investment in change,19-20 CDEL BL one off new costs
+19-20 CDEL Baseline - Recurring new costs - investment in change,19-20 CDEL BL recurring new costs
+19-20 CDEL Baseline - Recurring old costs,19-20 CDEL BL recurring old costs
+19-20 CDEL Baseline - Whole Life Cost breakdown,19-20 CDEL BL Total 
+19-20 CDEL Forecast - One off new costs - investment in change,19-20 CDEL Forecast one off new costs
+19-20 CDEL Forecast - Recurring new costs - investment in change,19-20 CDEL Forecast recurring new costs
+19-20 CDEL Forecast - Recurring old costs,19-20 CDEL Forecast recurring old costs
+19-20 CDEL Forecast - Whole Life Cost breakdown,19-20 CDEL Forecast Total 
+20-21 CDEL Baseline - One off new costs - investment in change,20-21 CDEL BL one off new costs
+20-21 CDEL Baseline - Recurring new costs - investment in change,20-21 CDEL BL recurring new costs
+20-21 CDEL Baseline - Recurring old costs,20-21 CDEL BL recurring old costs
+20-21 CDEL Baseline - Whole Life Cost breakdown,20-21 CDEL BL Total 
+20-21 CDEL Forecast - One off new costs - investment in change,20-21 CDEL Forecast one off new costs
+20-21 CDEL Forecast - Recurring new costs - investment in change,20-21 CDEL Forecast recurring new costs
+20-21 CDEL Forecast - Recurring old costs,20-21 CDEL Forecast recurring old costs
+20-21 CDEL Forecast - Whole Life Cost breakdown,20-21 CDEL Forecast Total 
+21-22 CDEL Baseline - One off new costs - investment in change,21-22 CDEL BL one off new costs
+21-22 CDEL Baseline - Recurring new costs - investment in change,21-22 CDEL BL recurring new costs
+21-22 CDEL Baseline - Recurring old costs,21-22 CDEL BL recurring old costs
+21-22 CDEL Baseline - Whole Life Cost breakdown,21-22 CDEL BL Total 
+21-22 CDEL Forecast - One off new costs - investment in change,21-22 CDEL Forecast one off new costs
+21-22 CDEL Forecast - Recurring new costs - investment in change,21-22 CDEL Forecast recurring new costs
+21-22 CDEL Forecast - Recurring old costs,21-22 CDEL Forecast recurring old costs
+21-22 CDEL Forecast - Whole Life Cost breakdown,21-22 CDEL Forecast Total 
+Unprofiled Remainder CDEL Baseline - One off new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL BL one off new costs
+Unprofiled Remainder CDEL Baseline - Recurring new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL BL recurring new costs
+Unprofiled Remainder CDEL Baseline - Recurring old costs (GMPP - Remaining Spend),Unprofiled CDEL BL recurring old costs
+Unprofiled Remainder CDEL Baseline - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled CDEL BL Total 
+Unprofiled Remainder CDEL Forecast - One off new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL Forecast one off new costs
+Unprofiled Remainder CDEL Forecast - Recurring new costs - investment in change (GMPP - Remaining Spend),Unprofiled CDEL Forecast recurring new costs
+Unprofiled Remainder CDEL Forecast - Recurring old costs (GMPP - Remaining Spend),Unprofiled CDEL Forecast recurring old costs
+Unprofiled Remainder CDEL Forecast - Whole Life Cost breakdown (GMPP - Remaining Spend),Unprofiled CDEL Forecast Total 
+Total CDEL Baseline - One off new costs - investment in change,Total CDEL BL one off new costs
+Total CDEL Baseline - Recurring new costs - investment in change,Total CDEL BL recurring new costs
+Total CDEL Baseline - Recurring old costs,Total CDEL BL recurring old costs
+Total CDEL Baseline - Whole Life Cost breakdown,Total CDEL BL Total 
+Total CDEL Forecast - One off new costs - investment in change,Total CDEL Forecast one off new costs
+Total CDEL Forecast - Recurring new costs - investment in change,Total CDEL Forecast recurring new costs
+Total CDEL Forecast - Recurring old costs,Total CDEL Forecast recurring old costs
+Total CDEL Forecast - Whole Life Cost breakdown,Total CDEL Forecast Total 
+Annual Steady State for CDEL recurring new costs,Annual Steady State for CDEL recurring new costs
+Year CDEL spend stops,Year CDEL spend stops
+Unprofiled Remainder RDEL Baseline - Non-Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled Non-Gov BL
+Unprofiled Remainder RDEL Forecast - Non-Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled  Non-Gov Forecast
+Total Baseline - Non-Gov both Revenue and Capital,Total BL Non-Gov 
+Total Forecast - Non-Gov both Revenue and Capital,Total Forecast Non-Gov 
+Pre 16-17 Baseline - Non-Gov both Revenue and Capital,Pre 16-17 BL Non-Gov 
+Pre 16-17 Forecast - Non-Gov both Revenue and Capital,Pre 16-17 Forecast Non-Gov BL
+2016/2017 Non-Gov (£m) Revenue & Capital Spend on profile?,16 - 17 Non-Gov Spend on profile?
+16-17 Baseline - Non-Gov both Revenue and Capital,16-17 BL Non-Gov 
+16-17 Forecast - Non-Gov both Revenue and Capital,16-17 Forecast Non-Gov
+17-18 Baseline - Non-Gov both Revenue and Capital,17-18 BL Non-Gov 
+17-18 Forecast - Non-Gov both Revenue and Capital,17-18 Forecast Non-Gov 
+18-19 Baseline - Non-Gov both Revenue and Capital,18-19 BL Non-Gov 
+18-19 Forecast - Non-Gov both Revenue and Capital,18-19 Forecast Non-Gov
+19-20 Baseline - Non-Gov both Revenue and Capital,19-20 BL Non-Gov
+19-20 Forecast - Non-Gov both Revenue and Capital,19-20 Forecast Non-Gov
+20-21 Baseline - Non-Gov both Revenue and Capital,20-21 BL Non-Gov 
+20-21 Forecast - Non-Gov both Revenue and Capital,20-21 Forecast Non-Gov
+21-22 Baseline - Non-Gov both Revenue and Capital,21-22 BL Non-Gov 
+21-22 Forecast - Non-Gov both Revenue and Capital,21-22 Forecast Non-Gov
+Pre 16-17 Baseline - Income (£m) both Revenue and Capital,Pre 16-17 BL Income 
+Pre 16-17 Forecast - Income (£m) both Revenue and Capital,Pre 16-17 Forecast Income 
+2016/2017Income (£m) Revenue & Capital Spend on Profile?,16-17 Income Spend on Profile?
+16-17 Baseline - Income (£m) both Revenue and Capital,16-17 BL Income 
+16-17 Forecast - Income (£m) both Revenue and Capital,16-17 Forecast Income
+17-18 Baseline - Income (£m) both Revenue and Capital,s
+17-18 Forecast - Income (£m) both Revenue and Capital,17-18 Forecast Income 
+18-19 Baseline - Income (£m) both Revenue and Capital,18-19 BL Income 
+18-19 Forecast - Income (£m) both Revenue and Capital,18-19 Forecast Income 
+19-20 Baseline - Income (£m) both Revenue and Capital,19-20 BL Income 
+19-20 Forecast - Income (£m) both Revenue and Capital,19-20 Forecast Income 
+20-21 Baseline - Income (£m) both Revenue and Capital,20-21 BL Income
+20-21 Forecast - Income (£m) both Revenue and Capital,20-21 Forecast Income 
+21-22 Baseline - Income (£m) both Revenue and Capital,21-22 BL Income
+21-22 Forecast - Income (£m) both Revenue and Capital,21-22 Forecast Income
+Unprofiled Remainder Baseline - Non Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled BL Income 
+Unprofiled Remainder Forecast - Non Gov both Revenue and Capital (GMPP - Remaining Spend),Unprofiled Forecast Income
+Total Baseline - Income (£m) both Revenue and Capital,Total BL Income 
+Total Forecast - Income (£m) both Revenue and Capital,Total Forecast Icome
