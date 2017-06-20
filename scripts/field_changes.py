@@ -20,11 +20,11 @@ if __name__ == "__main__":
 
     amending_fields = get_amending_fields()
 
-    with open('new-master.csv', 'w', encoding='utf-8') as outfile:
-        writer = csv.writer(outfile)
+    with open('new-master.csv', 'w', encoding='utf-8', newline='') as outfile:
+        writer = csv.writer(outfile, delimiter=',')
 
         with open(
-            '../master.csv', 'r+', encoding='utf-8') as f:
+            'master_test.csv', 'r+', encoding='utf-8') as f:
             reader = csv.reader(f)
             for line in reader:
 
