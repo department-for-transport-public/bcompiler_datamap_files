@@ -42,3 +42,28 @@ propogated properly in the Q1.
 **ISSUE**   Master shows 7581.504952/green. compares shows 14,534.52. current shows
 7,581.5. current obtained by =SUM(C133:C135).
 
+**M-KEY**   RDEL Total Variance
+**DM**      FB E133
+**ISSUE**   Master shows -0.175048000...../red. compares shows -0.2. current
+shows 0.18.
+
+---
+
+**M-KEY**   CDEL Total Variance
+**DM**      FB E134
+**ISSUE**   Master shows -79.0899999...../green. compares shows -79.09. current
+shows 0.18.
+
+## West Midlands Franchise Competition
+
+**M-KEY**   Delivery Structure
+**DM**      S G32
+**ISSUE**   Master shows "Project"/yellow. compares shows "project". current
+shows "Project". Incorrect use of case.
+
+---
+
+**M-KEY**   Risk Level (RPA)
+**DM**      S H29
+**ISSUE**   Master shows "High"/yellow. compares shows "high". current
+shows "high". Incorrect use of case.
