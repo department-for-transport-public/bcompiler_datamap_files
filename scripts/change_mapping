@@ -1,0 +1,225 @@
+New Key                                                                                                                  Old Cellref                   
+------------------------------------------------------------------------------------------------------------------------
+Real or Nominal - Baseline                                                                                               C18                           
+Real or Nominal - Actual/Forecast                                                                                        E18                           
+Index Year                                                                                                               B19                           
+Source of Finance                                                                                                        B21                           
+Other Finance type Description                                                                                           D21                           
+NPV for all projects and NPV for programmes if available                                                                 C22                           
+Project cost to closure                                                                                                  B23                           
+RDEL Total budget/BL                                                                                                     C77                           
+CDEL total budget/BL                                                                                                     C78                           
+Non-Gov Total Budget/BL                                                                                                  C79                           
+Total Budget/BL                                                                                                          C80                           
+RDEL Total Forecast                                                                                                      D77                           
+CDEL Total Forecast                                                                                                      D78                           
+Non-Gov Total Forecast                                                                                                   D79                           
+Total Forecast                                                                                                           D80                           
+RDEL Total Variance                                                                                                      E77                           
+CDEL Total Variance                                                                                                      E78                           
+Non Gov Total Variance                                                                                                   E79                           
+Total Variance                                                                                                           E80                           
+RDEL Total Budget/BL SR (20/21)                                                                                          H77                           
+CDEL Total Budget/BL SR (20/21)                                                                                          H78                           
+Non-Gov Total Budget/BL SR (20/21)                                                                                       H79                           
+Total Budget SR (20/21)                                                                                                  H80                           
+RDEL Total Forecast SR (20/21)                                                                                           I77                           
+CDEL Total Forecast SR (20/21)                                                                                           I78                           
+Non-Gov Total Forecast SR (20/21)                                                                                        I79                           
+Total Forecast SR (20/21)                                                                                                I80                           
+Project Costs Narrative RDEL                                                                                             B49                           
+Project Costs Narrative CDEL                                                                                             B74                           
+Pre 16-17 RDEL BL one off new costs                                                                                      C27                           
+Pre 16-17 RDEL BL recurring new costs                                                                                    D27                           
+Pre 16-17 RDEL BL recurring old costs                                                                                    E27                           
+Pre 16-17 RDEL BL Total                                                                                                  F27                           
+Pre 16-17 RDEL Actual one off new costs                                                                                  C28                           
+Pre 16-17 RDEL Actual recurring new costs                                                                                D28                           
+Pre 16-17 RDEL Actual recurring old costs                                                                                E28                           
+Pre 16-17 RDEL Actual Total                                                                                              F28                           
+RDEL one off new cost spend 16/17 on profile                                                                             C29                           
+RDEL recurring new cost spend 16/17 on profile                                                                           D29                           
+RDEL recurring old cost spend 16/17 on profile                                                                           E29                           
+RDEL total spend 16/17 on profile                                                                                        F29                           
+16-17 RDEL BL one off new costs                                                                                          C30                           
+16-17 RDEL BL recurring new costs                                                                                        D30                           
+16-17 RDEL BL recurring old costs                                                                                        E30                           
+16-17 RDEL BL Total                                                                                                      F30                           
+16-17 RDEL Forecast one off new costs                                                                                    C31                           
+16-17 RDEL Forecast recurring new costs                                                                                  D31                           
+16-17 RDEL Forecast recurring old costs                                                                                  E31                           
+16-17 RDEL Forecast Total                                                                                                F31                           
+17-18 RDEL BL one off new costs                                                                                          C32                           
+17-18 RDEL BL recurring new costs                                                                                        D32                           
+17-18 RDEL BL recurring old costs                                                                                        E32                           
+17-18 RDEL BL Total                                                                                                      F32                           
+17-18 RDEL Forecast one off new costs                                                                                    C33                           
+17-18 RDEL Forecast recurring new costs                                                                                  D33                           
+17-18 RDEL Forecast recurring old costs                                                                                  E33                           
+17-18 RDEL Forecast Total                                                                                                F33                           
+18-19 RDEL BL one off new costs                                                                                          C34                           
+18-19 RDEL BL recurring new costs                                                                                        D34                           
+18-19 RDEL BL recurring old costs                                                                                        E34                           
+18-19 RDEL BL Total                                                                                                      F34                           
+18-19 RDEL Forecast one off new costs                                                                                    C35                           
+18-19 RDEL Forecast recurring new costs                                                                                  D35                           
+18-19 RDEL Forecast recurring old costs                                                                                  E35                           
+18-19 RDEL Forecast Total                                                                                                F35                           
+19-20 RDEL BL one off new costs                                                                                          C36                           
+19-20 RDEL BL recurring new costs                                                                                        D36                           
+19-20 RDEL BL recurring old costs                                                                                        E36                           
+19-20 RDEL BL Total                                                                                                      F36                           
+19-20 RDEL Forecast one off new costs                                                                                    C37                           
+19-20 RDEL Forecast recurring new costs                                                                                  D37                           
+19-20 RDEL Forecast recurring old costs                                                                                  E37                           
+19-20 RDEL Forecast Total                                                                                                F37                           
+20-21 RDEL BL one off new costs                                                                                          C38                           
+20-21 RDEL BL recurring new costs                                                                                        D38                           
+20-21 RDEL BL recurring old costs                                                                                        E38                           
+20-21 RDEL BL Total                                                                                                      F38                           
+20-21 RDEL Forecast one off new costs                                                                                    C39                           
+20-21 RDEL Forecast recurring new costs                                                                                  D39                           
+20-21 RDEL Forecast recurring old costs                                                                                  E39                           
+20-21 RDEL Forecast Total                                                                                                F39                           
+21-22 RDEL BL one off new costs                                                                                          C40                           
+21-22 RDEL BL recurring new costs                                                                                        D40                           
+21-22 RDEL BL recurring old costs                                                                                        E40                           
+21-22 RDEL BL Total                                                                                                      F40                           
+21-22 RDEL Forecast one off new costs                                                                                    C41                           
+21-22 RDEL Forecast recurring new costs                                                                                  D41                           
+21-22 RDEL Forecast recurring old costs                                                                                  E41                           
+21-22 RDEL Forecast Total                                                                                                F41                           
+Unprofiled RDEL BL one off new costs                                                                                     C42                           
+Unprofiled RDEL BL recurring new costs                                                                                   D42                           
+Unprofiled RDEL BL recurring old costs                                                                                   E42                           
+Unprofiled RDEL BL Total                                                                                                 F42                           
+Unprofiled RDEL Forecast one off new costs                                                                               C43                           
+Unprofiled RDEL Forecast recurring new costs                                                                             D43                           
+Unprofiled RDEL Forecast recurring old costs                                                                             E43                           
+Unprofiled RDEL Forecast Total                                                                                           F43                           
+Total RDEL BL one off new costs                                                                                          C44                           
+Total RDEL BL recurring new costs                                                                                        D44                           
+Total RDEL BL recurring old costs                                                                                        E44                           
+Total RDEL BL Total                                                                                                      F44                           
+TotalRDEL Forecast one off new costs                                                                                     C45                           
+Total RDEL Forecast recurring new costs                                                                                  D45                           
+Total RDEL Forecast recurring old costs                                                                                  E45                           
+Total RDEL Forecast Total                                                                                                F45                           
+Annual Steady State for RDEL recurring new costs                                                                         D46                           
+Year RDEL spend stops                                                                                                    C47                           
+Pre 16-17 CDEL BL one off new costs                                                                                      C52                           
+Pre 16-17 CDEL BL recurring new costs                                                                                    D52                           
+Pre 16-17 CDEL BL recurring old costs                                                                                    E52                           
+Pre 16-17 CDEL BL Total                                                                                                  F52                           
+Pre 16-17 CDEL Actual one off new costs                                                                                  C53                           
+Pre 16-17 CDEL Actual recurring new costs                                                                                D53                           
+Pre 16-17 CDEL Actual recurring old costs                                                                                E53                           
+Pre 16-17 CDEL Actual Total                                                                                              F53                           
+CDEL one off new cost spend in year on profile                                                                           C54                           
+CDEL recurring new cost spend in year on profile                                                                         D54                           
+CDEL recurring old cost spend in year on profile                                                                         E54                           
+CDEL total spend in year on profile                                                                                      F54                           
+16-17 CDEL BL one off new costs                                                                                          C55                           
+16-17 CDEL BL recurring new costs                                                                                        D55                           
+16-17 CDEL BL recurring old costs                                                                                        E55                           
+16-17 CDEL BL Total                                                                                                      F55                           
+16-17 CDEL Forecast one off new costs                                                                                    C56                           
+16-17 CDEL Forecast recurring new costs                                                                                  D56                           
+16-17 CDEL Forecast recurring old costs                                                                                  E56                           
+16-17 CDEL Forecast Total                                                                                                F56                           
+17-18 CDEL BL one off new costs                                                                                          C57                           
+17-18 CDEL BL recurring new costs                                                                                        D57                           
+17-18 CDEL BL recurring old costs                                                                                        E57                           
+17-18 CDEL BL Total                                                                                                      F57                           
+17-18 CDEL Forecast one off new costs                                                                                    C58                           
+17-18 CDEL Forecast recurring new costs                                                                                  D58                           
+17-18 CDEL Forecast recurring old costs                                                                                  E58                           
+17-18 CDEL Forecast Total                                                                                                E58                           
+18-19 CDEL BL one off new costs                                                                                          C59                           
+18-19 CDEL BL recurring new costs                                                                                        D59                           
+18-19 CDEL BL recurring old costs                                                                                        E59                           
+18-19 CDEL BL Total                                                                                                      F59                           
+18-19 CDEL Forecast one off new costs                                                                                    C60                           
+18-19 CDEL Forecast recurring new costs                                                                                  D60                           
+18-19 CDEL Forecast recurring old costs                                                                                  E60                           
+18-19 CDEL Forecast Total                                                                                                F60                           
+19-20 CDEL BL one off new costs                                                                                          C61                           
+19-20 CDEL BL recurring new costs                                                                                        D61                           
+19-20 CDEL BL recurring old costs                                                                                        E61                           
+19-20 CDEL BL Total                                                                                                      F61                           
+19-20 CDEL Forecast one off new costs                                                                                    C62                           
+19-20 CDEL Forecast recurring new costs                                                                                  D62                           
+19-20 CDEL Forecast recurring old costs                                                                                  E62                           
+19-20 CDEL Forecast Total                                                                                                F62                           
+20-21 CDEL BL one off new costs                                                                                          C63                           
+20-21 CDEL BL recurring new costs                                                                                        D63                           
+20-21 CDEL BL recurring old costs                                                                                        E63                           
+20-21 CDEL BL Total                                                                                                      F63                           
+20-21 CDEL Forecast one off new costs                                                                                    C64                           
+20-21 CDEL Forecast recurring new costs                                                                                  D64                           
+20-21 CDEL Forecast recurring old costs                                                                                  E64                           
+20-21 CDEL Forecast Total                                                                                                F64                           
+21-22 CDEL BL one off new costs                                                                                          C65                           
+21-22 CDEL BL recurring new costs                                                                                        D65                           
+21-22 CDEL BL recurring old costs                                                                                        E65                           
+21-22 CDEL BL Total                                                                                                      F65                           
+21-22 CDEL Forecast one off new costs                                                                                    C66                           
+21-22 CDEL Forecast recurring new costs                                                                                  D66                           
+21-22 CDEL Forecast recurring old costs                                                                                  E66                           
+21-22 CDEL Forecast Total                                                                                                F66                           
+Unprofiled CDEL BL one off new costs                                                                                     C67                           
+Unprofiled CDEL BL recurring new costs                                                                                   D67                           
+Unprofiled CDEL BL recurring old costs                                                                                   E67                           
+Unprofiled CDEL BL Total                                                                                                 F67                           
+Unprofiled CDEL Forecast one off new costs                                                                               C68                           
+Unprofiled CDEL Forecast recurring new costs                                                                             D68                           
+Unprofiled CDEL Forecast recurring old costs                                                                             E68                           
+Unprofiled CDEL Forecast Total                                                                                           F68                           
+Total CDEL BL one off new costs                                                                                          C69                           
+Total CDEL BL recurring new costs                                                                                        D69                           
+Total CDEL BL recurring old costs                                                                                        E69                           
+Total CDEL BL Total                                                                                                      F69                           
+Total CDEL Forecast one off new costs                                                                                    C70                           
+Total CDEL Forecast recurring new costs                                                                                  D70                           
+Total CDEL Forecast recurring old costs                                                                                  E70                           
+Total CDEL Forecast Total                                                                                                F70                           
+Annual Steady State for CDEL recurring new costs                                                                         D71                           
+Year CDEL spend stops                                                                                                    C72                           
+Unprofiled Non-Gov BL                                                                                                    H42                           
+Unprofiled  Non-Gov Forecast                                                                                             H43                           
+Total BL Non-Gov                                                                                                         H79                           
+Total Forecast Non-Gov                                                                                                   H79                           
+Pre 16-17 BL Non-Gov                                                                                                     H27                           
+Pre 16-17 Forecast Non-Gov BL                                                                                            H28                           
+16 - 17 Non-Gov Spend on profile?                                                                                        H29                           
+16-17 BL Non-Gov                                                                                                         H30                           
+16-17 Forecast Non-Gov                                                                                                   H31                           
+17-18 BL Non-Gov                                                                                                         H32                           
+17-18 Forecast Non-Gov                                                                                                   H33                           
+18-19 BL Non-Gov                                                                                                         H34                           
+18-19 Forecast Non-Gov                                                                                                   H35                           
+19-20 BL Non-Gov                                                                                                         H36                           
+19-20 Forecast Non-Gov                                                                                                   H37                           
+20-21 BL Non-Gov                                                                                                         H38                           
+20-21 Forecast Non-Gov                                                                                                   H39                           
+21-22 BL Non-Gov                                                                                                         H40                           
+21-22 Forecast Non-Gov                                                                                                   H41                           
+Pre 16-17 BL Income                                                                                                      I27                           
+Pre 16-17 Forecast Income                                                                                                I28                           
+16-17 Income Spend on Profile?                                                                                           I29                           
+16-17 BL Income                                                                                                          I30                           
+16-17 Forecast Income                                                                                                    I31                           
+s                                                                                                                        I32                           
+17-18 Forecast Income                                                                                                    I33                           
+18-19 BL Income                                                                                                          I34                           
+18-19 Forecast Income                                                                                                    I35                           
+19-20 BL Income                                                                                                          I36                           
+19-20 Forecast Income                                                                                                    I37                           
+20-21 BL Income                                                                                                          I38                           
+20-21 Forecast Income                                                                                                    I39                           
+21-22 BL Income                                                                                                          I40                           
+21-22 Forecast Income                                                                                                    I41                           
+Unprofiled BL Income                                                                                                     I42                           
+Unprofiled Forecast Income                                                                                               I43                           
+Total BL Income                                                                                                          I44                           
+Total Forecast Icome                                                                                                     I45                           
