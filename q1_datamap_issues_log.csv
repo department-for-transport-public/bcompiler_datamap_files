@@ -9,3 +9,4 @@ RDEL Total Variance - FB E133 - Master shows -0.175048000...../red. compares sho
 CDEL Total Variance - FB E134 - Master shows -79.0899999...../green. compares shows -79.09. current shows 0.18. (Crossrail),Returns-to-master,,
 "Delivery Structure - S G23 - Master shows ""Project""/yellow. compares show ""project"". current shows ""Project"". Incorrect use of case. (West Midlands Franchise Competition)",Returns-to-master,,
 "Risk Level (RPA) - S H29 - Master shows ""High""/yellow. compares shows ""high"". current shows ""high"". Incorrect use of case. (West Midlands Franchise Competition)",Returns-to-master,,
+"Assurance MM1, Assurance MM2, etc – are all going to be flagged as changed (yellow) due to an error in the Q4 master generated following datamap/template changes for Q1 commission. This is due to a cell being removed in template (Assurance planning/A8) which wasn’t picked up.",Returns-to-master,Will not happen during Q2,
