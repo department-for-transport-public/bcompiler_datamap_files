@@ -8,3 +8,5 @@ APM F27 – Data from other project has been populated here due to CSV bug (fixe
 AP F17 F20 – Data from other project has been populated here due to CSV bug (fixed for other cells),,
 AP C31:32 C36:37 – Cells required correct drop-down option to be input BUT cell protection prevents input.,,
 "1dp formatting is used in Q1 template but 2dp in Q4, resulting in different numbers arising",,
+Checking spending review totals are adding up correctly,WG checked and they are correct,
+Hide all future pre-FY rows to avoid confusion ,WG completed,

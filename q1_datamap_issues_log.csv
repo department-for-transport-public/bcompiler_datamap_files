@@ -1,12 +1,28 @@
-Issue Identified,Phase,Fixed,Tested
-RDEL Total Budget/BL – FB C72 – Master shows 37.8/red. compare shows 37.80. current shows 37.8 (Crossrail),Returns-to-master,,
-"Non-Gov Total Budget/BL – FB C135 - Master shows 0/green. compare shows 7,192.10. current shows <dash>. (Crossrail)",Returns-to-master,,
-"Total Budget/BL – FB C136 - Master shows 7576.77/green. compares shows 14,768.87. current shows 7,576.8. current obtained by =SUM(C133:C135). (Crossrail)",Returns-to-master,,
+Issue Identified,Phase,Fixed,Tested,Data added,person 
+RDEL Total Budget/BL – FB C72 – Master shows 37.8/red. compare shows 37.80. current shows 37.8 (Crossrail),Returns-to-master,,,,
+"Non-Gov Total Budget/BL – FB C135 - Master shows 0/green. compare shows 7,192.10. current shows <dash>. (Crossrail)",Returns-to-master,,,,
+"Total Budget/BL – FB C136 - Master shows 7576.77/green. compares shows 14,768.87. current shows 7,576.8. current obtained by =SUM(C133:C135). (Crossrail)",Returns-to-master,,,,
 "Non-Gov Total Forecast/BL – FB D135 – Master shows 84/green. compare shows 7,037.02. current shows 84.0. It obtains this by linking directly to FB H72. In comare, formula is SUM(H44) which is the sum of Non-Gov both Revenue and Capital - Baseline. This figures have not which is the sum of Non-Gov both Revenue and Capital - Forecast. This figures have not be propogated to other errors. propogated properly in the Q1. propogated properly in the Q1.
-It obtains this by linking directly to FB H73. In comare, formula is SUM(H45) (Crossrail)",Returns-to-master,,
-"Total Forecast – FB D136 – Master shows 7581.504952/green. compares shows 14,534.52. current shows 7,581.5. current obtained by =SUM(C133:C135). (Crossrail)",Returns-to-master,,
-RDEL Total Variance - FB E133 - Master shows -0.175048000...../red. compares shows -0.2. current shows 0.18. (Crossrail),Returns-to-master,,
-CDEL Total Variance - FB E134 - Master shows -79.0899999...../green. compares shows -79.09. current shows 0.18. (Crossrail),Returns-to-master,,
-"Delivery Structure - S G23 - Master shows ""Project""/yellow. compares show ""project"". current shows ""Project"". Incorrect use of case. (West Midlands Franchise Competition)",Returns-to-master,,
-"Risk Level (RPA) - S H29 - Master shows ""High""/yellow. compares shows ""high"". current shows ""high"". Incorrect use of case. (West Midlands Franchise Competition)",Returns-to-master,,
-"Assurance MM1, Assurance MM2, etc – are all going to be flagged as changed (yellow) due to an error in the Q4 master generated following datamap/template changes for Q1 commission. This is due to a cell being removed in template (Assurance planning/A8) which wasn’t picked up.",Returns-to-master,Will not happen during Q2,
+It obtains this by linking directly to FB H73. In comare, formula is SUM(H45) (Crossrail)",Returns-to-master,,,,
+"Total Forecast – FB D136 – Master shows 7581.504952/green. compares shows 14,534.52. current shows 7,581.5. current obtained by =SUM(C133:C135). (Crossrail)",Returns-to-master,,,,
+RDEL Total Variance - FB E133 - Master shows -0.175048000...../red. compares shows -0.2. current shows 0.18. (Crossrail),Returns-to-master,,,,
+CDEL Total Variance - FB E134 - Master shows -79.0899999...../green. compares shows -79.09. current shows 0.18. (Crossrail),Returns-to-master,,,,
+"Delivery Structure - S G23 - Master shows ""Project""/yellow. compares show ""project"". current shows ""Project"". Incorrect use of case. (West Midlands Franchise Competition)",Returns-to-master,,,,
+"Risk Level (RPA) - S H29 - Master shows ""High""/yellow. compares shows ""high"". current shows ""high"". Incorrect use of case. (West Midlands Franchise Competition)",Returns-to-master,,,,
+"Assurance MM1, Assurance MM2, etc – are all going to be flagged as changed (yellow) due to an error in the Q4 master generated following datamap/template changes for Q1 commission. This is due to a cell being removed in template (Assurance planning/A8) which wasn’t picked up.",Returns-to-master,Will not happen during Q2,,,
+RDEL Total Budget/BL - not transferring.  ,Returns-to-master,,,31/07/2017,WG
+RDEL Total Budget/BL SR (20/21) - should state RDEL Total Budget/BL SR (19/20). Data transfer is fine ,How data recorded in master,,,31/07/2017,WG
+RDEL Total Forecast SR (20/21) - should state RDEL Total Forecast (19/20). Data transfer is fine ,How data recorded in master,,,31/07/2017,WG
+"Comparision between quarters. Ensure pre 16/17 is removed from comparison coding - this applies for RDEL, CDEL,Non-Gov and Income sections of Data Map. ",Returns-to-master and coding ,,,31/07/2017,WG
+Comparisions between quarters. CDEL / Non-Gov . Are a year out. E.g. 16/17 should be recorded as 17/18. ,Returns-to-master and coding ,,,31/07/2017,WG
+Income revenue and income sections generally not tested - further assurance required ,Returns-to-master and coding ,,,31/07/2017,WG
+16-17 CDEL Actual one off new costs - not transferring ,Returns-to-master,,,31/07/2017,WG
+16-17 CDEL Actual recurring new costs - not transferring ,Returns-to-master,,,31/07/2017,WG
+16-17 CDEL Actual recurring old costs - not transferring ,Returns-to-master,,,31/07/2017,WG
+16-17 CDEL Actual Total - not transferring ,Returns-to-master,,,31/07/2017,WG
+18-19 CDEL Forecast Total ,Returns-to-master,,,31/07/2017,WG
+"Wrong order - Unprofiled Non-Gov BL. Needs to come at end of Non-Gov data. (duplicated at end, so earlier one can be deleted)",Returns-to-master and DM,,,31/07/2017,WG
+"Wrong order - Unprofiled Non-Gov Forecast. Needs to come at end of Non-Gov data. (duplicated at end, so earlier one can be deleted)",Returns-to-master and DM,,,31/07/2017,WG
+Wrong order - Total BL Non-Gov. needs to come at end of Non-Gov data. ,Returns-to-master and DM,,,31/07/2017,WG
+Wrong order - Total Forecast Non-Gov. needs to come at end of Non-Gov data. ,Returns-to-master and DM,,,31/07/2017,WG
+Network Rail asset displosal not working in bcompiler compare - issue needs sorting ,Returns-to-master ,,,31/07/2017,WG
